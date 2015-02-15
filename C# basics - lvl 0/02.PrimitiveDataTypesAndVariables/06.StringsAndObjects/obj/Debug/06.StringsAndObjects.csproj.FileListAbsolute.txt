@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.pdb

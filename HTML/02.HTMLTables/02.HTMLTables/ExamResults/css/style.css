@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, serif;
+    font-size: 1.7vw;
+}
+
+
+tbody>tr:nth-child(1){
+    text-align: center;
+    font-weight: bold;
+}
+
+tbody{
+    font-size: 70%;
+
+}
+
+thead{
+    font-weight: bold;
+
+}
+
+tfoot{
+    font-size: 70%;
+    text-align: right;
+}
+
+td{
+    padding: 7px;
+}

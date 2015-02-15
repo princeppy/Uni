@@ -1,0 +1,6 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamPractice\BitSifting\bin\Debug\BitSifting.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamPractice\BitSifting\obj\Debug\BitSifting.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamPractice\BitSifting\bin\Debug\BitSifting.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamPractice\BitSifting\bin\Debug\BitSifting.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamPractice\BitSifting\obj\Debug\BitSifting.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamPractice\BitSifting\obj\Debug\BitSifting.pdb

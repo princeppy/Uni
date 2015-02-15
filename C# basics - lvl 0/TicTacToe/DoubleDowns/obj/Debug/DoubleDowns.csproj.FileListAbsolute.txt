@@ -1,0 +1,6 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\DoubleDowns\bin\Debug\DoubleDowns.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\DoubleDowns\obj\Debug\DoubleDowns.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\DoubleDowns\bin\Debug\DoubleDowns.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\DoubleDowns\bin\Debug\DoubleDowns.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\DoubleDowns\obj\Debug\DoubleDowns.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\DoubleDowns\obj\Debug\DoubleDowns.pdb

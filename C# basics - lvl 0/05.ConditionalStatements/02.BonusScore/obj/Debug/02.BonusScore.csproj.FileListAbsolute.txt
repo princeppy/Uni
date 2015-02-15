@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\02.BonusScore\bin\Debug\02.BonusScore.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\02.BonusScore\bin\Debug\02.BonusScore.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\02.BonusScore\bin\Debug\02.BonusScore.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\02.BonusScore\obj\Debug\02.BonusScore.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\02.BonusScore\obj\Debug\02.BonusScore.pdb

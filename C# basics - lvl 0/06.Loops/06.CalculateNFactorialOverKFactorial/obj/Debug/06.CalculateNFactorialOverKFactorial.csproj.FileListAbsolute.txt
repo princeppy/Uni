@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\06.CalculateNFactorialOverKFactorial\bin\Debug\06.CalculateNFactorialOverKFactorial.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\06.CalculateNFactorialOverKFactorial\bin\Debug\06.CalculateNFactorialOverKFactorial.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\06.CalculateNFactorialOverKFactorial\bin\Debug\06.CalculateNFactorialOverKFactorial.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\06.CalculateNFactorialOverKFactorial\obj\Debug\06.CalculateNFactorialOverKFactorial.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\06.CalculateNFactorialOverKFactorial\obj\Debug\06.CalculateNFactorialOverKFactorial.pdb

@@ -1,0 +1,6 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\BookOrders\bin\Debug\BookOrders.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\BookOrders\obj\Debug\BookOrders.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\BookOrders\bin\Debug\BookOrders.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\BookOrders\bin\Debug\BookOrders.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\BookOrders\obj\Debug\BookOrders.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\BookOrders\obj\Debug\BookOrders.pdb

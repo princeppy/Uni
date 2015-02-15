@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\08.DigitAsWord\bin\Debug\08.DigitAsWord.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb

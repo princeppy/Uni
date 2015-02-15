@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\15.AgeAfterTenYears\bin\Debug\15.AgeAfterTenYears.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\15.AgeAfterTenYears\bin\Debug\15.AgeAfterTenYears.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\15.AgeAfterTenYears\bin\Debug\15.AgeAfterTenYears.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\15.AgeAfterTenYears\obj\Debug\15.AgeAfterTenYears.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\15.AgeAfterTenYears\obj\Debug\15.AgeAfterTenYears.pdb

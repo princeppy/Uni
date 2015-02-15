@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\ExamSchedule\bin\Debug\ExamSchedule.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\ExamSchedule\bin\Debug\ExamSchedule.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\ExamSchedule\bin\Debug\ExamSchedule.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\ExamSchedule\obj\Debug\ExamSchedule.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\ExamSchedule\obj\Debug\ExamSchedule.pdb

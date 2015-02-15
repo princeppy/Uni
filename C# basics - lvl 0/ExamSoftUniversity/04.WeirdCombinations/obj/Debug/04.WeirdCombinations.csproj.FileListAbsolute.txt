@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\04.WeirdCombinations\bin\Debug\04.WeirdCombinations.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\04.WeirdCombinations\bin\Debug\04.WeirdCombinations.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\04.WeirdCombinations\bin\Debug\04.WeirdCombinations.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\04.WeirdCombinations\obj\Debug\04.WeirdCombinations.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\04.WeirdCombinations\obj\Debug\04.WeirdCombinations.pdb

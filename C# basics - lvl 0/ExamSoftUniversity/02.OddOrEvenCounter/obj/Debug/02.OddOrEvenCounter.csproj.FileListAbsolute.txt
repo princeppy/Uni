@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\02.OddOrEvenCounter\bin\Debug\02.OddOrEvenCounter.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\02.OddOrEvenCounter\bin\Debug\02.OddOrEvenCounter.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\02.OddOrEvenCounter\bin\Debug\02.OddOrEvenCounter.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\02.OddOrEvenCounter\obj\Debug\02.OddOrEvenCounter.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\02.OddOrEvenCounter\obj\Debug\02.OddOrEvenCounter.pdb

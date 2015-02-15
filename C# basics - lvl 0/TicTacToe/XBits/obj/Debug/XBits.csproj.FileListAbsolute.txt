@@ -1,0 +1,6 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\XBits\bin\Debug\XBits.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\XBits\obj\Debug\XBits.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\XBits\bin\Debug\XBits.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\XBits\bin\Debug\XBits.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\XBits\obj\Debug\XBits.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\XBits\obj\Debug\XBits.pdb

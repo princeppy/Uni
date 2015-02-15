@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.pdb

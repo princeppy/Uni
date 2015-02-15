@@ -1,0 +1,6 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\16.HalfSum\bin\Debug\16.HalfSum.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\16.HalfSum\bin\Debug\16.HalfSum.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\16.HalfSum\bin\Debug\16.HalfSum.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\16.HalfSum\obj\Debug\16.HalfSum.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\16.HalfSum\obj\Debug\16.HalfSum.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\16.HalfSum\obj\Debug\16.HalfSum.csprojResolveAssemblyReference.cache

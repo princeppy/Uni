@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\11.ExtractBitNumberThree\bin\Debug\11.ExtractBitNumberThree.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\11.ExtractBitNumberThree\bin\Debug\11.ExtractBitNumberThree.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\11.ExtractBitNumberThree\bin\Debug\11.ExtractBitNumberThree.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\11.ExtractBitNumberThree\obj\Debug\11.ExtractBitNumberThree.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\11.ExtractBitNumberThree\obj\Debug\11.ExtractBitNumberThree.pdb

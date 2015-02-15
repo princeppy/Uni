@@ -1,0 +1,18 @@
+table{
+    font-family: Helvetica, serif;
+    font-size: 60px;
+    border: 1px;
+    border-style: double;
+
+}
+tr>td{
+    padding: 10px;
+    border: 1px;
+    border-style: double;
+
+}
+
+img{
+    position: relative;
+    margin: 10px;
+}
