@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0; }
+  body #wrapper {
+    padding: 2%;
+    width: 370px;
+    height: 200px;
+    background: url("../img/wordpress-logo.jpg") no-repeat;
+    background-size: 100%;
+    background-position: center;
+    background-position-y: top; }
+    body #wrapper form {
+      margin-top: 25%; }
+      body #wrapper form label {
+        display: block; }
+        body #wrapper form label input[type="search"], body #wrapper form label input[type="submit"] {
+          height: 30px;
+          margin-top: 5%; }
+      body #wrapper form input[type="button"] {
+        background: url("../img/button.jpg") no-repeat;
+        border: none;
+        background-position: 0px 0px;
+        background-size: 30px;
+        width: 30px;
+        height: 30px;
+        vertical-align: middle; }
+        body #wrapper form input[type="button"]:hover {
+          background: url("../img/button-hoverr.jpg");
+          border: none;
+          background-size: 30px;
+          vertical-align: middle;
+          cursor: pointer; }
+        body #wrapper form input[type="button"]:focus {
+          outline: none; }
+
+/*# sourceMappingURL=style.css.map */

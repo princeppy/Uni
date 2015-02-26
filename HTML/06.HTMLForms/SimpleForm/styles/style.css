@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, serif; }
+  body #wrapper {
+    margin: 0;
+    padding: 10px;
+    width: 750px;
+    height: 400px;
+    background-color: #eee; }
+    body #wrapper #explain {
+      margin-top: 20px;
+      font-size: 14px; }
+    body #wrapper header {
+      font-weight: bold;
+      font-size: 26px;
+      color: #234465; }
+    body #wrapper .form-class {
+      margin: 0;
+      padding: 10px;
+      display: inline-block;
+      height: 70%;
+      width: 46%;
+      margin-top: 25px;
+      margin-right: 1%; }
+      body #wrapper .form-class:nth-of-type(3) {
+        background-color: #234465; }
+      body #wrapper .form-class form {
+        display: inline-block;
+        margin: 0;
+        height: 100%;
+        vertical-align: top; }
+        body #wrapper .form-class form fieldset {
+          height: 50%;
+          padding: 0;
+          border: 0; }
+        body #wrapper .form-class form .input-text {
+          width: 98%;
+          height: 25%;
+          margin-top: 4%; }
+      body #wrapper .form-class #register {
+        font-weight: bold;
+        color: #234465; }
+        body #wrapper .form-class #register #grey {
+          color: grey; }
+        body #wrapper .form-class #register input[type="submit"] {
+          width: 50%;
+          font-size: 18px;
+          color: #234465;
+          padding: 2%;
+          margin-top: 5%;
+          margin-left: 49%;
+          border: solid 2px #234465;
+          background-color: #eee; }
+          body #wrapper .form-class #register input[type="submit"]:hover {
+            cursor: pointer;
+            background-color: #234465;
+            color: white;
+            transition: 0.5s; }
+      body #wrapper .form-class #login {
+        font-weight: bold;
+        color: white; }
+        body #wrapper .form-class #login div {
+          margin-top: 7%; }
+          body #wrapper .form-class #login div label {
+            display: inline-block;
+            font-size: 12px;
+            font-weight: normal;
+            vertical-align: top; }
+            body #wrapper .form-class #login div label #check-remember {
+              transform: scale(1.6);
+              margin-right: 5px; }
+          body #wrapper .form-class #login div input[type="submit"] {
+            width: 40%;
+            font-size: 18px;
+            color: white;
+            padding: 2%;
+            margin-left: 25.5%;
+            border: solid 2px #FF9C00;
+            background-color: #234465; }
+            body #wrapper .form-class #login div input[type="submit"]:hover {
+              cursor: pointer;
+              transition: 0.5s;
+              background-color: #FF9C00; }
+        body #wrapper .form-class #login p {
+          margin-top: 50px;
+          text-decoration: underline;
+          color: white;
+          font-size: 12px;
+          padding: 5px;
+          text-align: right; }
+
+/*# sourceMappingURL=style.css.map */

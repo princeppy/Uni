@@ -1,0 +1,185 @@
+@font-face {
+  font-family: fakebook;
+  src: url("../fonts/FACEBOLF.OTF");
+}
+
+body {
+  margin: 0;
+  padding: 0;
+//  background: url("../img/back.png") no-repeat;
+  font-family: "Tahoma", sans-serif;
+
+  #wrapper {
+    width: 840px;
+    height: 600px;
+    background-color: #3B5997;
+    color: white;
+    font-size: 14px;
+    header {
+      h1 {
+        font-family: fakebook, sans-serif;
+        font-size: 130px;
+        font-weight: bold;
+        color: white;
+        text-align: center;
+        margin:0;
+        span {
+          font-weight: normal;
+          font-size: 30px;
+        }
+      }
+    }
+    h2{
+      margin: 0;
+      font-size: 35px;
+      font-weight: bold;
+      text-align: center;
+    }
+    h3{
+      margin: 0;
+      font-size: 18px;
+      font-weight: bold;
+      text-align: center;
+    }
+    fieldset {
+      border-radius: 10px;
+      border: solid 1px white;
+      legend{
+        text-align: center;
+        font-weight: bold;
+      }
+    }
+    input{
+      border: medium;
+      border-radius: 5px ;
+    }
+
+    #right-col {
+      height: 45%;
+      margin-top: 20px;
+      width: 55%;
+      padding: 12px;
+      display: inline-block;
+      vertical-align: top;
+
+      input[type="submit"]{
+        margin: 0 auto;
+        width: 100%;
+        margin-top: 20px;
+        font-size: 26px;
+        padding: 10px;
+        border-radius: 10px;
+        color: #3B5997;
+
+        &:hover{
+          color:white;
+          background-color: #3B5951;
+        cursor: pointer;
+        }
+      }
+      .main-input{
+          width: 31%;
+          height: 26px;
+          margin-left: 1%;
+          margin-top: 2.5%;
+          display: inline-block;
+        }
+      .secondary-input{
+        width: 31%;
+        height: 26px;
+        margin-left: 0.5%;
+        margin-top: 6%;
+        display: inline-block;
+
+      }
+
+      .address-nums{
+        width: 15%;
+        margin-left: 1.5%;
+        height: 26px;
+      }
+      label[for="color"]{
+        float: left;
+        margin-top: 5px;
+        margin-right: 70px;
+      }
+      input[type="color"]{
+        float: left;
+        margin-top: 4px;
+        width: 175%;
+      }
+
+      label[for="area"]{
+        display: block;
+        margin-top: 10px;
+      }
+      textarea{
+        display: block;
+        width: 97%;
+        border-radius: 5px;
+        height: 60px;
+        resize: none;
+      }
+    }
+
+    #left-col{
+      display: inline-block;
+      vertical-align: top;
+      height: 45%;
+      margin-top: 20px;
+      width: 38%;
+      padding: 12px;
+
+      input[type="reset"]{
+        margin: 0 auto;
+        width: 100%;
+        margin-top: 20px;
+        font-size: 20px;
+        padding: 13px;
+        border-radius: 10px;
+        color: #3B5997;
+        &:hover{
+          color:white;
+          background-color: #3B5951;
+          cursor: pointer;
+        }
+      }
+
+        label[for="birthday"]{
+
+          margin-left: 1.5%;
+          display: block;
+          margin-top: 5px;
+
+        }
+
+        input[type="text"], input[type="email"], input[type="tel"], input[type="password"]{
+          width: 46%;
+          height: 26px;
+          margin-left: 2%;
+          margin-top: 3.5%;
+        }
+
+        input[type="time"]{
+          width: 72%;
+          margin-left: 0.5%;
+          margin-top: 3.5%;
+          height: 26px;
+          display: block;
+          margin-bottom: 8px;
+
+        }
+
+        .gender{
+          margin-left: 0.5%;
+          margin-right: 13px;
+          margin-top: 10px;
+
+          input{
+            margin-right: 7px;
+            margin-bottom: 10%;
+          }
+      }
+    }
+  }
+}

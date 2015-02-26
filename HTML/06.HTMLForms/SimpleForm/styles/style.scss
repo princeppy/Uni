@@ -1,0 +1,135 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, serif;
+//  background: url("../img/back.png") no-repeat;
+
+  #wrapper {
+    margin: 0;
+    padding: 10px;
+    width: 750px;
+    height: 400px;
+//    border: solid 1px;
+        background-color: #eee;
+    #explain {
+      margin-top: 20px;
+      font-size: 14px;
+    }
+
+    header {
+      font-weight: bold;
+      font-size: 26px;
+      color: #234465;
+
+    }
+    .form-class {
+      margin: 0;
+      padding: 10px;
+      display: inline-block;
+      height: 70%;
+      width: 46%;
+      margin-top: 25px;
+      margin-right: 1%;
+
+      &:nth-of-type(3){
+        background-color: #234465;
+      }
+      form {
+
+        display: inline-block;
+        margin: 0;
+        height: 100%;
+        vertical-align: top;
+
+        fieldset {
+          height: 50%;
+          padding: 0;
+          border: 0;
+
+        }
+
+        .input-text {
+          width: 98%;
+          height: 25%;
+          margin-top: 4%;
+        }
+      }
+
+      #register {
+        font-weight: bold;
+        color: #234465;
+        #grey {
+          color: grey;
+        }
+        input[type="submit"]{
+          width: 50%;
+          font-size: 18px;
+          color: #234465;
+          padding: 2%;
+          margin-top: 5%;
+          margin-left: 49%;
+          border: solid 2px #234465;
+          background-color: #eee;
+
+          &:hover{
+            cursor: pointer;
+            background-color: #234465;
+            color: white;
+            transition: 0.5s;
+          }
+
+        }
+      }
+
+      #login {
+        font-weight: bold;
+        color: white;
+
+
+        div {
+          margin-top: 7%;
+          label {
+            display: inline-block;
+            font-size: 12px;
+            font-weight: normal;
+            vertical-align: top;
+            #check-remember{
+              transform: scale(1.6);
+              margin-right: 5px;
+
+
+            }
+
+
+          }
+          input[type="submit"]{
+            width: 40%;
+            font-size: 18px;
+            color: white;
+            padding: 2%;
+            margin-left: 25.5%;
+            border: solid 2px #FF9C00;
+            background-color: #234465;
+            &:hover{
+              cursor: pointer;
+              transition: 0.5s;
+
+              background-color: #FF9C00;
+            }
+          }
+        }
+        p{
+          margin-top: 50px;
+          text-decoration: underline;
+          color: white;
+          font-size: 12px;
+          padding: 5px;
+          text-align: right;
+        }
+      }
+
+
+    }
+  }
+}
+

@@ -1,0 +1,125 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+//  background: url("../img/back.png") no-repeat;
+  #wrapper {
+//    border: solid 2px;
+    width: 550px;
+    height: 420px;
+    background-color: #FFC0CB;
+
+    form {
+      width: 100%;
+      padding: 1.5%;
+      height: 75%;
+
+      header {
+        font-size: 40px;
+        font-weight: bold;
+        font-style: oblique;
+        text-align: center;
+        margin-top: 2.5%;
+      }
+    }
+
+    label {
+      display: block;
+    }
+
+    div {
+      display: inline-block;
+//      border: solid 2px;
+      vertical-align: top;
+    }
+
+    #left-col {
+      width: 47%;
+      margin-right: 1%;
+      height: 85%;
+      >label:first-of-type{
+        margin-bottom: 14%;
+      }
+    }
+    #right-col {
+      width: 47%;
+      height: 85%;
+
+
+    }
+
+    input[type="text"] {
+      width: 95%;
+      margin-bottom: 0;
+    }
+
+    input[type="date"] {
+      width: 95%;
+    }
+
+    input[type="time"] {
+      width: 115%;
+
+    }
+
+    label {
+      margin-bottom: 6%;
+      margin-top: 0;
+    }
+
+    .time {
+      display: inline-block;
+    }
+
+    .people {
+      display: inline-block;
+    }
+
+    .time {
+      margin-right: 10%;
+    }
+
+    input[type="number"] {
+      width: 135%;
+    }
+
+    .people {
+      margin-right: 10.2%;
+    }
+    input, select {
+      display: block;
+      height: 30px;
+
+    }
+    select {
+      width: 95%;
+      height: 37px;
+
+    }
+
+    label:first-of-type{
+      margin-bottom: 0;
+      margin-top: 0;
+    }
+
+    input[type="submit"]{
+      margin-top: 5%;
+      float: right;
+      width: 44.5%;
+      margin-right: 6.5%;
+      font-size:  20px;
+      height: 13%;
+    }
+
+    input[type="checkbox"]{
+      display: inline-block;
+      vertical-align: middle;
+
+
+    }
+    #check{
+      margin-bottom: 0;
+    }
+  }
+
+}
