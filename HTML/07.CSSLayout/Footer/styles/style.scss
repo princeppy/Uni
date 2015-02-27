@@ -1,0 +1,102 @@
+@import url("https://www.google.com/fonts#UsePlace:use/Collection:PT+Sans");
+
+body {
+  width: 100%;
+  font-family: "PT Sans", sans-serif;
+  font-size: 14px;
+  box-sizing: border-box;
+}
+
+main {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  background-color: #234465;
+  padding: 30px 40px;
+  #buttons-div {
+    //    border: 1px solid;
+    height: 125px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    button {
+      width: 120%;
+      height: 50px;
+      background-color: #234465;
+      border: 2px solid #FF9C00;
+      color: white;
+      font-weight: bold;
+
+      &:focus, &:link, &:visited {
+        outline: none;
+      }
+
+      &:hover {
+        cursor: pointer;
+        background-color: #FF9C00;
+        transition: all 0.2s ease;
+      }
+    }
+  }
+  > ul {
+    width: 60%;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    > li {
+      color: #FF9C00;
+      font-weight: bold;
+      margin: 10px;
+      width: 27%;
+
+      > ul {
+
+        display: flex;
+        margin: 10px 0px;
+        flex-direction: column;
+        li {
+          text-decoration: none;
+          color: white;
+          font-weight: normal;
+          line-height: 25px;
+          a {
+            &:visited, &:active, &:link {
+              text-decoration: none;
+              color: white;
+            }
+            &:hover {
+              color: #FF9C00;
+            }
+          }
+          ul {
+            display: flex;
+            flex-direction: row;
+            justify-content: flex-start;
+            li > a {
+
+              > input {
+                &:focus, &:link, &:visited, &:active{
+                  outline: none;
+                }
+                margin-right: 10px;
+                margin-top: 10px;
+                width: 30px;
+              }
+            }
+          }
+        }
+
+      }
+    }
+
+  }
+
+  #fb-container {
+    background-color: #E9ECEF;
+  }
+}

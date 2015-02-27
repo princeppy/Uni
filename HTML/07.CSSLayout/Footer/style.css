@@ -1,0 +1,22 @@
+body>div{
+    display: inline-block;
+}
+ul{
+    list-style-type: none;
+}
+body>div>ul>li{
+    display: inline-block;
+}
+
+body>div>ul{
+    position: relative;
+}
+
+body>div>ul>li>ul{
+    display: none;
+}
+
+body>div>ul>li:hover ul{
+    display: block;
+    position: absolute;
+}
