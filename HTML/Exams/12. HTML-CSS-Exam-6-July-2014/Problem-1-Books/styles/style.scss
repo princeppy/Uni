@@ -1,0 +1,56 @@
+body{
+  font-family: Tahoma, Helvetica, sans-serif;
+  font-size: 11px;
+
+  #wrapper{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    width: 500px;
+    .container{
+
+      width: 29%;
+      margin: 0;
+      padding: 0;
+      >div{
+
+        border: 1px solid rgba(0,0,0,0.2);
+        img{
+            margin: 0;
+          padding: 0;
+          width: 99%;
+        }
+
+
+      }
+      .title{
+        text-transform: uppercase;
+      }
+
+      .author{
+        color: grey;
+      }
+
+      .price{
+        color: red;
+        font-weight: bold;
+      }
+
+      a{
+        background: url("../img/shopping-cart-inactive.png") no-repeat;
+        padding:2px 10px 2px 25px;
+//        border: 1px solid #000000;
+        text-decoration: none;
+        border-radius: 0px 3px 3px 0px;
+        color: #000000;
+
+
+      }
+
+      .margin{
+        display: block;
+        margin-top: 25px;
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+body {
+  #wrapper {
+    width: 960px;
+    margin: 0 auto;
+
+    div {
+      display: inline-block;
+
+
+      img {
+        width: 259px;
+        height: 194px;
+
+        &:focus {
+          width: 259px;
+          height: 194px;
+        }
+        &:hover {
+          position: relative;
+          top: 0;
+          left: 0;
+          -webkit-animation: Hypnoza 3s both infinite; /* Chrome, Safari, Opera */
+        }
+      }
+    }
+  }
+}
+
+@-webkit-keyframes Hypnoza {
+  0% {
+    left: 0;
+    top: 0;
+  }
+
+  100% {
+    left: 50%;
+    top: 80px;
+    width: 518px;
+    height: 388px;
+    -webkit-transform: rotate(360deg);
+  }
+}

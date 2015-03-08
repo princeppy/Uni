@@ -1,0 +1,43 @@
+@media only screen and (min-width: 150px) and (max-width: 780px) {
+  .body {
+    width: 99%; }
+    .body .mainHeader {
+      width: 99%;
+      display: flex;
+      flex-direction: column; }
+      .body .mainHeader img {
+        width: 99%; }
+      .body .mainHeader > nav {
+        width: 99%;
+        height: auto; }
+        .body .mainHeader > nav > ul {
+          padding: 0;
+          height: auto;
+          width: 100%;
+          display: flex;
+          flex-direction: column; }
+          .body .mainHeader > nav > ul li {
+            width: 100%;
+            float: none; }
+            .body .mainHeader > nav > ul li a {
+              box-sizing: border-box;
+              width: 100%;
+              padding: 5px 0px 10px 0px;
+              height: 40px; }
+    .body .mainContent {
+      overflow: auto;
+      display: flex;
+      flex-flow: column wrap;
+      width: 99%; }
+      .body .mainContent .content {
+        width: 100%;
+        margin-bottom: 3%; }
+      .body .mainContent aside {
+        box-sizing: border-box;
+        width: 100%;
+        margin: 0;
+        margin-bottom: 3%; }
+        .body .mainContent aside article {
+          width: 99%; } }
+
+/*# sourceMappingURL=resp.css.map */

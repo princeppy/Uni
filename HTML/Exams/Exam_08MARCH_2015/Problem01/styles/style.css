@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  padding: 10px 0px 0px 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px; }
+  body #wrapper {
+    width: 800px;
+    margin: 0 auto; }
+    body #wrapper header {
+      width: 100%;
+      height: 55px;
+      text-align: center;
+      background-color: #DDDDDD;
+      border-radius: 15px;
+      color: #9371D2;
+      font-size: 30px;
+      text-shadow: 1px 1px 1px white;
+      margin-bottom: 25px;
+      line-height: 55px; }
+    body #wrapper main {
+      display: flex;
+      flex-flow: row wrap;
+      justify-content: space-between; }
+      body #wrapper main article {
+        width: 23%;
+        background-color: #EEEEEE;
+        border-radius: 15px;
+        box-sizing: border-box;
+        padding: 10px; }
+        body #wrapper main article div {
+          width: 165px;
+          height: 165px;
+          background-color: #9470DC;
+          border-radius: 50%;
+          text-align: center;
+          font-size: 75px;
+          font-weight: bold;
+          color: white;
+          line-height: 165px;
+          margin: 0 auto;
+          margin-bottom: 20px; }
+          body #wrapper main article div:hover {
+            background-color: white;
+            color: #9470DE;
+            cursor: pointer; }
+        body #wrapper main article p {
+          text-align: center;
+          color: #B2A5AF;
+          margin: 0;
+          margin-top: 15px; }
+        body #wrapper main article a {
+          display: block;
+          text-align: center;
+          background-color: #DDDDDD;
+          text-decoration: none;
+          color: #796767;
+          text-shadow: 0.5px 0.5px 0.5px white;
+          width: 100%;
+          padding: 15px 0px;
+          border-radius: 10px;
+          font-size: 10px;
+          font-weight: bold; }
+          body #wrapper main article a:hover {
+            background-color: white;
+            cursor: pointer; }
+
+/*# sourceMappingURL=style.css.map */
