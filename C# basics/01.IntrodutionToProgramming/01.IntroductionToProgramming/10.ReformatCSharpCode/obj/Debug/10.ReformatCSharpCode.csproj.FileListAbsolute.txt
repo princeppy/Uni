@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.pdb

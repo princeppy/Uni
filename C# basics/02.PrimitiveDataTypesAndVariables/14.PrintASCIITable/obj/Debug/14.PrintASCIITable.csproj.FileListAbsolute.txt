@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.pdb

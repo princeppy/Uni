@@ -1,0 +1,6 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\07.CSharpAdvanced\03.PrintAllPrimesInRange\bin\Debug\03.PrintAllPrimesInRange.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\07.CSharpAdvanced\03.PrintAllPrimesInRange\obj\Debug\03.PrintAllPrimesInRange.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\07.CSharpAdvanced\03.PrintAllPrimesInRange\bin\Debug\03.PrintAllPrimesInRange.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\07.CSharpAdvanced\03.PrintAllPrimesInRange\bin\Debug\03.PrintAllPrimesInRange.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\07.CSharpAdvanced\03.PrintAllPrimesInRange\obj\Debug\03.PrintAllPrimesInRange.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\07.CSharpAdvanced\03.PrintAllPrimesInRange\obj\Debug\03.PrintAllPrimesInRange.pdb

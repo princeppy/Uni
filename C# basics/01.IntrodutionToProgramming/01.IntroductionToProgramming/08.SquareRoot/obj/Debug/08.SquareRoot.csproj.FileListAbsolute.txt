@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\08.SquareRoot\bin\Debug\08.SquareRoot.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\08.SquareRoot\bin\Debug\08.SquareRoot.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\08.SquareRoot\bin\Debug\08.SquareRoot.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\08.SquareRoot\obj\Debug\08.SquareRoot.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\08.SquareRoot\obj\Debug\08.SquareRoot.pdb

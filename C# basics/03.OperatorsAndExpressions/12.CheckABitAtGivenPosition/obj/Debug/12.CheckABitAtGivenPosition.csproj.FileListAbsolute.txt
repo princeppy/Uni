@@ -1,0 +1,1 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\12.CheckABitAtGivenPosition\bin\Debug\12.CheckABitAtGivenPosition.exe.config

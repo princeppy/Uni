@@ -1,0 +1,6 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb

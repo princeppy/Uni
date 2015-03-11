@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\07.PointInACircle\bin\Debug\07.PointInACircle.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\07.PointInACircle\bin\Debug\07.PointInACircle.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\07.PointInACircle\bin\Debug\07.PointInACircle.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\07.PointInACircle\obj\Debug\07.PointInACircle.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\07.PointInACircle\obj\Debug\07.PointInACircle.pdb

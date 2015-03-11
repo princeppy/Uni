@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\07.SortThreeNumbers\bin\Debug\07.SortThreeNumbers.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\07.SortThreeNumbers\bin\Debug\07.SortThreeNumbers.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\07.SortThreeNumbers\bin\Debug\07.SortThreeNumbers.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\07.SortThreeNumbers\obj\Debug\07.SortThreeNumbers.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\07.SortThreeNumbers\obj\Debug\07.SortThreeNumbers.pdb

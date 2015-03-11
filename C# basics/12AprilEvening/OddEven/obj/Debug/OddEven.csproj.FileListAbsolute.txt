@@ -1,0 +1,6 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\OddEven\bin\Debug\OddEven.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\OddEven\obj\Debug\OddEven.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\OddEven\bin\Debug\OddEven.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\OddEven\bin\Debug\OddEven.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\OddEven\obj\Debug\OddEven.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\OddEven\obj\Debug\OddEven.pdb

@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\05.HalfByteSapper\bin\Debug\05.HalfByteSapper.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\05.HalfByteSapper\bin\Debug\05.HalfByteSapper.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\05.HalfByteSapper\bin\Debug\05.HalfByteSapper.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\05.HalfByteSapper\obj\Debug\05.HalfByteSapper.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\05.HalfByteSapper\obj\Debug\05.HalfByteSapper.pdb

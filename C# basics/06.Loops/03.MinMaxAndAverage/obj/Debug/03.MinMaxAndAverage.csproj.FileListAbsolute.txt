@@ -1,0 +1,6 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\03.MinMaxAndAverage\bin\Debug\03.MinMaxAndAverage.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\03.MinMaxAndAverage\bin\Debug\03.MinMaxAndAverage.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\03.MinMaxAndAverage\bin\Debug\03.MinMaxAndAverage.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\03.MinMaxAndAverage\obj\Debug\03.MinMaxAndAverage.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\03.MinMaxAndAverage\obj\Debug\03.MinMaxAndAverage.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\03.MinMaxAndAverage\obj\Debug\03.MinMaxAndAverage.pdb

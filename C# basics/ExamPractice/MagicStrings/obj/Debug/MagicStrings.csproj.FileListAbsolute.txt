@@ -1,0 +1,6 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamPractice\MagicStrings\bin\Debug\MagicStrings.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamPractice\MagicStrings\obj\Debug\MagicStrings.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamPractice\MagicStrings\bin\Debug\MagicStrings.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamPractice\MagicStrings\bin\Debug\MagicStrings.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamPractice\MagicStrings\obj\Debug\MagicStrings.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamPractice\MagicStrings\obj\Debug\MagicStrings.pdb

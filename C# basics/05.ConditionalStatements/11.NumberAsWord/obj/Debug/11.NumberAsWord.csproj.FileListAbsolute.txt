@@ -1,0 +1,6 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\11.NumberAsWord\bin\Debug\11.NumberAsWord.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\11.NumberAsWord\obj\Debug\11.NumberAsWord.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\11.NumberAsWord\bin\Debug\11.NumberAsWord.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\11.NumberAsWord\bin\Debug\11.NumberAsWord.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\11.NumberAsWord\obj\Debug\11.NumberAsWord.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\11.NumberAsWord\obj\Debug\11.NumberAsWord.pdb
