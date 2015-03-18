@@ -1,0 +1,17 @@
+body label {
+  display: block;
+  margin: 10px; }
+  body label input {
+    margin-left: 10px; }
+body #result {
+  width: 250px;
+  height: 30px;
+  border: 1px solid black;
+  margin: 10px;
+  text-align: center;
+  line-height: 30px; }
+body button {
+  width: 100px;
+  height: 30px; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,22 @@
+body{
+  label{
+    display: block;
+    margin: 10px;
+    input{
+      margin-left: 10px;
+    }
+  }
+  #speed-knots{
+    width: 250px;
+    height: 30px;
+    border: 1px solid black;
+    margin: 10px;
+    text-align: center;
+    line-height: 30px;
+  }
+  button{
+    width: 100px;
+    height: 30px;
+
+  }
+}

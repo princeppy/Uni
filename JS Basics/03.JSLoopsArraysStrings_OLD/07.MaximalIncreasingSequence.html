@@ -1,0 +1,69 @@
+﻿<html>
+<head>
+    <title>Arrays</title>
+    <link href="styles/style.css" rel="stylesheet"/>
+</head>
+<body>
+<div id="exercise">
+        <span id="inner">07.Write a JavaScript function findMaxSequence(arr) that finds the maximal increasing sequence in an array of numbers and returns the result as an array. If there is no increasing sequence the function returns 'no'.
+        </span>
+</div>
+<div>
+    <div>
+        <label for="input-one">Input comma or space separated array:</label>
+        <input id="input-one" placeholder="2,1,1,2,3" type="text" value="3, 5, 4, 6, 1, 2, 3, 6, 10, 32">
+    </div>
+</div>
+<a href="#" onclick="onPrintButtonClick(calcResult())">Print</a>
+
+<div id="result">The result will be printed here...</div>
+<script src="scripts/results.js"></script>
+
+<!--Start of the solution-->
+<script>
+    function calcResult() {
+
+        var str1 = document.getElementById('input-one').value;
+
+        var re = new RegExp('\\s+|,\\s*', 'g');
+        var arr1 = str1.split(re);
+        var check = true;
+
+        var tempCounter = 1;
+        var counter = 1;
+        var startElement = 0;
+        var tempElement = 0;
+        var check = false;
+
+        for (var i = 0; i < arr1.length - 1; i++) {
+           if (parseInt(arr1[i]) < parseInt(arr1[i + 1])) {
+                tempCounter++;
+                check = true;
+                if (tempCounter >= counter) {
+                    counter = tempCounter;
+                    startElement = tempElement;
+                }
+            }
+            else {
+                tempCounter = 1;
+                tempElement = i+1;
+            }
+        }
+        var sequence = '';
+        if(check) {
+            for (var i = startElement; i < startElement + counter; i++) {
+                sequence += arr1[i] + ',';
+                sequence = sequence.substring(0, sequence.length - 1);
+            }
+        }
+        else{
+            sequence = 'no';
+        }
+    return 'Maximal sequence is: ' + sequence;
+    }
+</script>
+<!--End of solution-->
+
+
+</body>
+</html>

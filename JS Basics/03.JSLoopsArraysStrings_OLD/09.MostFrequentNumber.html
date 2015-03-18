@@ -1,0 +1,69 @@
+﻿<html>
+<head>
+    <title>Arrays</title>
+    <link href="styles/style.css" rel="stylesheet"/>
+</head>
+<body>
+<div id="exercise">
+        <span id="inner">09.Write a JavaScript function findMostFreqNum(arr) that finds the most frequent number in an array. If multiple numbers appear the same maximal number of times, print the leftmost of them.
+        </span>
+</div>
+<div>
+    <div>
+        <label for="input-one">Input comma or space separated array:</label>
+        <input id="input-one" placeholder="2,1,1,2,3" type="text" value="4, 1, 1, 4, 2, 3, 4, 4, 1, 2, 4, 9, 3">
+    </div>
+</div>
+<a href="#" onclick="onPrintButtonClick(calcResult())">Print</a>
+
+<div id="result">The result will be printed here...</div>
+<script src="scripts/results.js"></script>
+
+<!--Start of the solution-->
+<script>
+    function calcResult() {
+        var str1 = document.getElementById('input-one').value;
+
+        var re = new RegExp('\\s+|,\\s*', 'g');
+        var arr1 = str1.split(re);
+        var arrHash = {};
+
+        //Parse the values
+//        for (var i = 0; i < arr1.length; i++) {
+//            arr1[i] = parseInt(arr1[i]);
+//        }
+//        var tempArr = arr1.slice();
+
+
+        //Program logic
+        for (var i = 0; i < arr1.length; i++) {
+
+            var el = arr1[i];
+            if(arrHash[el]==undefined){
+                arrHash[el]=1;
+            }
+            else{
+                arrHash[el]++;
+            }
+        }
+        var max = 0;
+        var keyMax;
+
+        for(var key in arrHash){
+            var temp = arrHash[key];
+            var tempKeyMax = key;
+
+            if(temp>max){
+                max= temp;
+                keyMax = key;
+            }
+        }
+
+        return 'The most frequent number is: ' + keyMax + ' -> ' + max;
+    }
+</script>
+<!--End of solution-->
+
+
+</body>
+</html>

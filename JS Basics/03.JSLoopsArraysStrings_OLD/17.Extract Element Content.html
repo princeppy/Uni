@@ -1,0 +1,44 @@
+﻿<html>
+<head>
+    <title>Arrays</title>
+    <link href="styles/style.css" rel="stylesheet"/>
+</head>
+<body>
+<div id="exercise">
+        <span id="inner">17.Write a JavaScript function extractContent(str) that extracts the text content from given HTML fragment (given as string). The function should return anything that is in a tag, without the tags.
+        </span>
+</div>
+<div>
+    <div>
+        <label for="input-one">Input text:</label>
+        <input id="input-one" placeholder="<p>Hello</p><a href='http://w3c.org'>W3C</a>" type="text" value="<p>Hello</p><a href='http://w3c.org'>W3C</a>">
+    </div>
+    <!--<div>-->
+    <!--<label for="input-two">Input text to search in:</label>-->
+    <!--<input id="input-two" placeholder="sample text" type="text">-->
+    <!--</div>-->
+</div>
+<a href="#" onclick="onPrintButtonClick(calcResult())">Print</a>
+
+<div id="result">The result will be printed here...</div>
+<script src="scripts/results.js"></script>
+
+<!--Start of the solution-->
+<script>
+    function calcResult() {
+
+        var text = document.getElementById('input-one').value;
+        var re = new RegExp('<\/?\\w*\\s*[^>]*>', 'g');
+
+        var arr = text.split(re);
+        arr = arr.filter(function(n){return n!='' });
+
+
+        return arr.join('');
+    }
+</script>
+<!--End of solution-->
+
+
+</body>
+</html>
