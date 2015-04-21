@@ -1,0 +1,54 @@
+﻿<html>
+<head>
+    <title>Arrays</title>
+    <link href="styles/style.css" rel="stylesheet"/>
+</head>
+<body>
+<div id="exercise">
+        <span id="inner">11.Write a JavaScript function checkBrackets(str) to check if in a given expression the brackets are put correctly.
+        </span>
+</div>
+<div>
+    <div>
+        <label for="input-one">Input a string:</label>
+        <input id="input-one" placeholder="test" type="text" value="( ( a + b ) / 5 – d )">
+    </div>
+</div>
+<a href="#" onclick="onPrintButtonClick(calcResult())">Print</a>
+
+<div id="result">The result will be printed here...</div>
+<script src="scripts/results.js"></script>
+
+<!--Start of the solution-->
+<script>
+    function calcResult() {
+        var str1 = document.getElementById('input-one').value;
+        var countOpen = 0;
+        var countClose = 0;
+        for (var i = 0; i < str1.length; i++) {
+            if(str1[i]=='('){
+                countOpen++;
+            }
+            if(str1[i]==')'){
+                countClose++;
+            }
+            if(countClose>countOpen){
+                break;
+            }
+        }
+
+        if(countClose==countOpen){
+            return 'Correct';
+        }
+        else{
+            return 'Incorrect';
+        }
+
+
+    }
+</script>
+<!--End of solution-->
+
+
+</body>
+</html>

@@ -1,0 +1,38 @@
+﻿<html>
+<head>
+    <title>Arrays</title>
+    <link href="styles/style.css" rel="stylesheet"/>
+</head>
+<body>
+<div id="exercise">
+        <span id="inner">10.Write a JavaScript function reverseString(str) that reverses string and returns it.
+        </span>
+</div>
+<div>
+    <div>
+        <label for="input-one">Input a string:</label>
+        <input id="input-one" placeholder="test" type="text" value="sample">
+    </div>
+</div>
+<a href="#" onclick="onPrintButtonClick(calcResult())">Print</a>
+
+<div id="result">The result will be printed here...</div>
+<script src="scripts/results.js"></script>
+
+<!--Start of the solution-->
+<script>
+    function calcResult() {
+        var str1 = document.getElementById('input-one').value;
+        var reversedStr ='';
+        for (var i = str1.length-1; i >= 0; i--) {
+            reversedStr+=str1[i];
+        }
+
+        return 'The reversed string is: ' + reversedStr;
+    }
+</script>
+<!--End of solution-->
+
+
+</body>
+</html>

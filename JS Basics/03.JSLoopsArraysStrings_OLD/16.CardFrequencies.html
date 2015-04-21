@@ -1,0 +1,58 @@
+﻿<html>
+<head>
+    <title>Arrays</title>
+    <link href="styles/style.css" rel="stylesheet"/>
+</head>
+<body>
+<div id="exercise">
+        <span id="inner">16.Write a JavaScript function findCardFrequency(str) that that accepts the following parameters: string of several cards (face + suit), separated by a space. The function calculates and prints at the console the frequency of each card face in format "card_face -> frequency". The frequency is calculated by the formula appearances / N and is expressed in percentages with exactly 2 digits after the decimal point. The card faces with their frequency should be printed in the order of the card face's first appearance in the input. The same card can appear multiple times in the input, but its face should be listed only once in the output.
+        </span>
+</div>
+<div>
+    <div>
+        <label for="input-one">Input text:</label>
+        <input id="input-one" placeholder="8♥ 2♣ 4♦ " type="text" value="8♥ 2♣ 4♦ 10♦ J♥ A♠ K♦ 10♥ K♠ K♦">
+    </div>
+    <!--<div>-->
+    <!--<label for="input-two">Input text to search in:</label>-->
+    <!--<input id="input-two" placeholder="sample text" type="text">-->
+    <!--</div>-->
+</div>
+<a href="#" onclick="onPrintButtonClick(calcResult())">Print</a>
+
+<div id="result">The result will be printed here...</div>
+<script src="scripts/results.js"></script>
+
+<!--Start of the solution-->
+<script>
+    function calcResult() {
+
+        var text = document.getElementById('input-one').value;
+        var re = new RegExp('[^JQKA\\d]+', 'g');
+
+        var cards = text.split(re);
+        //Remove empty entries
+        cards = cards.filter(function(n){ return n != '' });
+        var size = cards.length;
+        var cardsUnique = {};
+        for(var card in cards){
+            var index = cards[card];
+            if(cardsUnique.hasOwnProperty(index)){
+                cardsUnique[index]++;
+            }
+            else{
+                cardsUnique[index]=1;
+            }
+        }
+        var arr = []
+        for(var card in cardsUnique){
+            arr.push(' '+card+ ' -> '+(cardsUnique[card]/size*100).toFixed(2)+'%');
+        }
+        return arr;
+    }
+</script>
+<!--End of solution-->
+
+
+</body>
+</html>
