@@ -1,0 +1,26 @@
+body {
+  font-size: 22px;
+  font-family: "Calibri Headings", Tahoma, Helvetica, sans-serif; }
+  body input {
+    box-sizing: border-box;
+    font-size: 22px;
+    width: 300px;
+    height: 30px;
+    padding: 0;
+    padding: 5px; }
+  body #check {
+    box-sizing: border-box;
+    padding: 5px;
+    font-size: 22px;
+    width: 300px;
+    height: 30px;
+    display: none;
+    line-height: 22px; }
+  body button {
+    margin-top: 15px;
+    display: block;
+    width: 150px;
+    font-size: 22px;
+    height: 30px; }
+
+/*# sourceMappingURL=style.css.map */

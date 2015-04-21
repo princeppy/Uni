@@ -1,0 +1,81 @@
+﻿<html>
+<head>
+    <title>Arrays</title>
+    <link href="styles/style.css" rel="stylesheet"/>
+
+</head>
+<body>
+<div id="exercise">
+        <span id="inner">05.Write a JavaScript function group(persons) that groups an array of persons by age, first or last name. Create a Person constructor to add every person in the person array. The group(persons) function must return an associative array, with keys – the groups (age, firstName and lastName) and values – arrays with persons in this group. Print on the console every entry of the returned associative array. Use function overloading (i.e. just one function).
+You may need to find how to use constructors.
+
+        </span>
+</div>
+
+<a href="#" onclick="onPrintButtonClick(calcResult())">Generate Groups</a>
+
+<div id="result">The result will be printed here...</div>
+<script src="scripts/results.js"></script>
+
+
+<!--Start of the solution-->
+<script>
+    function Person(firstName, lastName, age) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.age = age;
+    }
+
+    function calcResult() {
+        var people = [];
+        people.push(new Person("Scott", "Guthrie", 38));
+        people.push(new Person("Scott", "Johns", 36));
+        people.push(new Person("Scott", "Hanselman", 40));
+        people.push(new Person("Jesse", "Johns", 57));
+        people.push(new Person("Jon", "Skeet", 36));
+
+        function groupBy(list, fn) {
+                var groups = {};
+
+            for (var i = 0; i < list.length; i++) {
+                var group = fn(list[i]);
+                if (group in groups) {
+                    groups[group].push(list[i].firstName + ' ' + list[i].lastName + '(age ' + list[i].age + ')');
+                } else {
+                    groups[group] = [list[i].firstName + ' ' + list[i].lastName + '(age ' + list[i].age + ')'];
+                }
+            }
+            return groups;
+        }
+
+
+        var listByFirstName = groupBy(people, function (item) {
+            return item.firstName;
+        });
+        var listByLastName = groupBy(people, function (item) {
+            return item.lastName;
+        });
+        var listByAge = groupBy(people, function (item) {
+            return item.age;
+        });
+
+        var strFirstName ='';
+        for (var obj in listByFirstName) {
+           strFirstName += 'Group ' + obj.toString() + ': [' + listByFirstName[obj].join(', ') + ']'+'<br>';
+        }
+        var strLastName ='';
+        for (var obj in listByLastName) {
+            strLastName += 'Group ' + obj.toString() + ': [' + listByLastName[obj].join(', ') + ']'+'<br>';
+        }
+        var strAge ='';
+        for (var obj in listByAge) {
+            strAge += 'Group ' + obj.toString() + ': [' + listByAge[obj].join(', ') + ']'+'<br>';
+        }
+        return strFirstName+'<br>'+strLastName+'<br>'+strAge;
+    }
+</script>
+<!--End of solution-->
+
+
+</body>
+</html>

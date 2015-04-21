@@ -1,0 +1,51 @@
+﻿<html>
+<head>
+    <title>Arrays</title>
+    <link href="styles/style.css" rel="stylesheet"/>
+</head>
+<body>
+<div id="exercise">
+        <span id="inner">03.Write a JavaScript function replaceATag(str) that replaces in a HTML document given as string all the tags  &lt;a href="…"&gt;…&lt;/a&gt; with corresponding tags [URL=…]…/URL].
+        </span>
+</div>
+<div>
+    <div>
+        <label for="input-one">Input text:</label>
+        <input id="input-one" placeholder="" type="text">
+    </div>
+    <!--<div>-->
+    <!--<label for="input-two">Input text to search in:</label>-->
+    <!--<input id="input-two" placeholder="sample text" type="text">-->
+    <!--</div>-->
+</div>
+<a href="#" onclick="onPrintButtonClick(calcResult())">Print</a>
+
+<div id="result">The result will be printed here...</div>
+<script src="scripts/results.js"></script>
+
+<!--Start of the solution-->
+<script>
+    function calcResult() {
+
+        var text = document.getElementById('input-one').value;
+        var regex1 = new RegExp('(<\a\\s*\href=.[^>]+>)(.[^<]+)(<\/a>)', 'g');
+        var regex2 = new RegExp('(<\a\\s*\href=)(.[^>]+)(>)(.[^<]+)(<\/a>)', 'g');
+        var match1 = regex1.exec(text);
+        var match2 = regex2.exec(text);
+        var str = match1[0];
+        str = str.replace(match2[1], '[URL href=');
+        str = str.replace(match2[3], ']');
+
+        text = text.replace(new RegExp(match1[0], 'g'), str);
+        text = text.replace(new RegExp(match1[3], 'g'), '[/URL]');
+        text = text.replace(/</g,'&lt;');
+        text = text.replace(/>/g,'&gt;');
+        console.log(text);
+        return text;
+    }
+</script>
+<!--End of solution-->
+
+
+</body>
+</html>

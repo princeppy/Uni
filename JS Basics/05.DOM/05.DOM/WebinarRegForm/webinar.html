@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="style/style.css"/>
+    <script src="script/functions.js"></script>
+</head>
+<body>
+<form action="post">
+
+    <h3>Регистрация за уебинар</h3>
+    <label for="name">Име и фамилия:<span>*</span><input id="name" type="text" required="required"/></label>
+    <label for="address">Адрес:<input id="address" type="text"/></label>
+    <label for="city">Населено място:<input id="city" type="text"/></label>
+    <label for="postcode">Пощенски код:<input id="postcode" type="text"/></label>
+    <label for="email">Email:<span>*</span><input id="email" type="email" required="required"/></label>
+    <label for="phone">Телефон:<span>*</span><input id="phone" type="tel" required="required"/></label>
+    <label for="date">Дата:<span>*</span><input id="date" type="date" required="required"/></label>
+    <label for="invoice" onclick="hide()"><input id="invoice" type="checkbox"/>Желая фактура:</label>
+
+    <div id="test">
+        <label for="company">Фирма/Организация:<span>*</span><input id="company" type="text" required="required"/></label>
+        <label for="mol">МОЛ:<span>*</span><input id="mol" type="text" required="required"/></label>
+        <label for="eik">ЕИК:<span>*</span><input id="eik" type="text" required="required"/></label>
+        <label for="dds">ИН по ДДС:<span>*</span><input id="dds" type="text" required="required"/></label>
+        <label for="company-address">Адрес:<span>*</span><input id="company-address" type="text" required="required"/></label>
+
+    </div>
+
+    <div id="buttons">
+        <button id="reg-btn" type="submit">Регистрирай се</button>
+        <button id="clear-btn" type="reset">Изчисти</button>
+    </div>
+
+</form>
+</body>
+</html>
