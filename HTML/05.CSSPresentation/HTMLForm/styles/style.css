@@ -1,0 +1,71 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Tahoma, sans-serif;
+  font-size: 14px; }
+  body form {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    background: url("../img/formBackground.jpg") no-repeat;
+    width: 420px;
+    border-radius: 10px;
+    align-content: space-between;
+    padding: 1%; }
+    body form fieldset {
+      border: none; }
+    body form legend {
+      color: white;
+      font-size: 16px;
+      font-weight: bold; }
+    body form label {
+      background-color: rgba(214, 227, 243, 0.4);
+      border: solid 2px #C0C9D7;
+      display: inline-flex;
+      padding: 10px;
+      border-radius: 5px;
+      margin: 0 auto;
+      margin-bottom: 2px;
+      width: 370px;
+      flex-direction: row;
+      justify-content: space-between;
+      padding: 7px; }
+      body form label input, body form label textarea {
+        border: ridge 1px;
+        width: 210px;
+        margin-right: 40px;
+        border-radius: 3px;
+        font-size: 12px;
+        padding: 2px; }
+      body form label textarea {
+        height: 70px; }
+    body form #card {
+      display: inline-block; }
+      body form #card div {
+        margin-top: 15px; }
+      body form #card img {
+        vertical-align: middle; }
+    body form .card-type {
+      background-size: 50px;
+      display: inline-block;
+      width: auto;
+      vertical-align: middle;
+      margin: 0px 10px; }
+    body form #submit {
+      margin: 0 auto;
+      width: 70px;
+      text-align: center;
+      padding: 5px;
+      border-radius: 50px;
+      background-color: #04152F;
+      color: white;
+      border: solid 1px #04152F; }
+      body form #submit:focus, body form #submit:active, body form #submit:link, body form #submit:visited {
+        outline: none; }
+      body form #submit:focus {
+        background-color: red; }
+      body form #submit:hover {
+        cursor: pointer;
+        border: inset 1px; }
+
+/*# sourceMappingURL=style.css.map */

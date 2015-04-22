@@ -1,0 +1,9 @@
+C:\Users\Elina Pavlova\Desktop\Exam CSharp 0\03.Dumbbell\bin\Debug\03.Weight.exe.config
+C:\Users\Elina Pavlova\Desktop\Exam CSharp 0\03.Dumbbell\obj\Debug\03.Weight.exe
+C:\Users\Elina Pavlova\Desktop\Exam CSharp 0\03.Dumbbell\obj\Debug\03.Weight.pdb
+C:\Users\Elina Pavlova\Desktop\Exam CSharp 0\Third Task\03.Dumbbell\bin\Debug\03.Weight.exe.config
+C:\Users\Elina Pavlova\Desktop\Exam CSharp 0\Third Task\03.Dumbbell\obj\Debug\03.Weight.exe
+C:\Users\Elina Pavlova\Desktop\Exam CSharp 0\Third Task\03.Dumbbell\obj\Debug\03.Weight.pdb
+C:\Users\Elina Pavlova\Desktop\Exam CSharp 0\Third Task\03.Dumbbell\bin\Debug\03.Weight.exe
+C:\Users\Elina Pavlova\Desktop\Exam CSharp 0\Third Task\03.Dumbbell\bin\Debug\03.Weight.pdb
+C:\Users\Elina Pavlova\Desktop\Exam CSharp 0\Third Task\03.Dumbbell\obj\Debug\03.Dumbbell.csprojResolveAssemblyReference.cache

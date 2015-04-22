@@ -1,0 +1,161 @@
+/* latin-ext */
+@font-face {
+  font-family: 'Oleo Script';
+  font-style: normal;
+  font-weight: 400;
+  src: local("Oleo Script"), local("OleoScript-Regular"), url(http://fonts.gstatic.com/s/oleoscript/v5/_weQNDK6Uf40CiGFKBBUjiYE0-AqJ3nfInTTiDXDjU4.woff2) format("woff2");
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF; }
+/* latin */
+@font-face {
+  font-family: 'Oleo Script';
+  font-style: normal;
+  font-weight: 400;
+  src: local("Oleo Script"), local("OleoScript-Regular"), url(http://fonts.gstatic.com/s/oleoscript/v5/_weQNDK6Uf40CiGFKBBUjo4P5ICox8Kq3LLUNMylGO4.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000; }
+body {
+  margin: 0;
+  padding: 10px 0px 0px 0px;
+  font-family: Calibri, Arial, sans-serif;
+  font-size: 12px; }
+  body p {
+    margin: 0;
+    padding: 0; }
+  body h1 {
+    margin: 0;
+    padding: 0; }
+  body #wrapper {
+    margin: 0 auto;
+    width: 1150px;
+    background-color: #50247D;
+    padding: 0px 75px;
+    box-sizing: border-box; }
+    body #wrapper #main-header {
+      display: flex;
+      flex-direction: column;
+      background: url("../resources/orion-gas-and-star-bgr.jpg") no-repeat;
+      padding: 15px;
+      border-bottom: 10px solid #35A5D7; }
+      body #wrapper #main-header h1 {
+        font-size: 68px;
+        font-family: 'Oleo Script';
+        color: white;
+        text-align: center;
+        height: 75px;
+        padding: 0; }
+      body #wrapper #main-header p {
+        color: white;
+        font-size: 26px;
+        text-align: center; }
+      body #wrapper #main-header nav {
+        width: 38%;
+        align-self: center;
+        font-size: 18px;
+        font-weight: bold; }
+        body #wrapper #main-header nav ul {
+          width: 100%;
+          display: flex;
+          flex-flow: row wrap;
+          list-style-type: none;
+          margin-top: 45px;
+          justify-content: space-between;
+          align-self: center;
+          padding: 0; }
+          body #wrapper #main-header nav ul li a {
+            text-decoration: none;
+            color: #452884;
+            padding: 10px 15px;
+            background-color: white; }
+            body #wrapper #main-header nav ul li a:hover {
+              background-color: #36A4D5;
+              color: white; }
+    body #wrapper main {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      border-top: 10px solid #865AB3;
+      border-bottom: 10px solid #35A5D3;
+      background-color: #EAE7EE;
+      margin-top: 30px;
+      padding: 25px;
+      box-sizing: border-box; }
+      body #wrapper main section {
+        width: 48%;
+        display: flex;
+        flex-flow: row wrap; }
+        body #wrapper main section article {
+          height: 100%;
+          position: relative;
+          background-color: white; }
+          body #wrapper main section article .readmore {
+            position: absolute;
+            top: 0px;
+            right: 0;
+            height: 35px;
+            background-color: #36A4D5; }
+            body #wrapper main section article .readmore a {
+              color: white;
+              text-decoration: none;
+              font-size: 14px;
+              padding: 10px 20px;
+              vertical-align: middle;
+              line-height: 35px; }
+      body #wrapper main #left-section {
+        width: 50%; }
+        body #wrapper main #left-section article {
+          padding: 31px 35px 55px 31px;
+          margin-right: 10px;
+          box-sizing: border-box; }
+          body #wrapper main #left-section article header h1 {
+            font-family: "Oleo Script";
+            font-size: 48px;
+            height: 35px;
+            line-height: 26px; }
+          body #wrapper main #left-section article h3 {
+            font-size: 26px;
+            font-weight: bold;
+            margin: 0; }
+          body #wrapper main #left-section article .content {
+            font-size: 14px;
+            margin-top: 15px;
+            margin-bottom: 25px; }
+            body #wrapper main #left-section article .content span {
+              font-weight: bold;
+              font-style: italic; }
+        body #wrapper main #left-section .low-link {
+          position: absolute;
+          bottom: 0;
+          right: 0;
+          height: 35px;
+          background-color: #36A4D5; }
+          body #wrapper main #left-section .low-link a {
+            color: white;
+            text-decoration: none;
+            font-size: 14px;
+            padding: 10px 20px;
+            vertical-align: middle;
+            line-height: 35px;
+            border: 1px solid #36A4D5;
+            background-color: #36A4D5; }
+            body #wrapper main #left-section .low-link a:hover {
+              background-color: #50247D;
+              border: 1px solid #C0ACCF; }
+      body #wrapper main #right-section {
+        justify-content: space-between; }
+        body #wrapper main #right-section article {
+          margin-bottom: 15px;
+          width: 200px;
+          background-color: white;
+          margin-left: 20px; }
+          body #wrapper main #right-section article header {
+            padding: 0px 15px 15px 15px;
+            color: #38A4D5;
+            font-size: 16px;
+            font-weight: bold; }
+          body #wrapper main #right-section article .content-right {
+            padding: 0px 15px 15px 15px; }
+    body #wrapper footer {
+      color: white;
+      font-size: 15px;
+      padding: 30px 20px; }
+
+/*# sourceMappingURL=style.css.map */

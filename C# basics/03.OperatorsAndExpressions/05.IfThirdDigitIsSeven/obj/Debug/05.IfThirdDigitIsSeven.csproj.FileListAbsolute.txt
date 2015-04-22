@@ -1,0 +1,6 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\05.IfThirdDigitIsSeven\bin\Debug\05.IfThirdDigitIsSeven.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\05.IfThirdDigitIsSeven\bin\Debug\05.IfThirdDigitIsSeven.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\05.IfThirdDigitIsSeven\bin\Debug\05.IfThirdDigitIsSeven.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\05.IfThirdDigitIsSeven\obj\Debug\05.IfThirdDigitIsSeven.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\05.IfThirdDigitIsSeven\obj\Debug\05.IfThirdDigitIsSeven.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\05.IfThirdDigitIsSeven\obj\Debug\05.IfThirdDigitIsSeven.pdb

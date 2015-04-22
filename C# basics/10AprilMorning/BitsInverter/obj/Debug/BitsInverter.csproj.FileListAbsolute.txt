@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\10AprilMorning\BitsInverter\bin\Debug\BitsInverter.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\10AprilMorning\BitsInverter\bin\Debug\BitsInverter.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\10AprilMorning\BitsInverter\bin\Debug\BitsInverter.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\10AprilMorning\BitsInverter\obj\Debug\BitsInverter.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\10AprilMorning\BitsInverter\obj\Debug\BitsInverter.pdb

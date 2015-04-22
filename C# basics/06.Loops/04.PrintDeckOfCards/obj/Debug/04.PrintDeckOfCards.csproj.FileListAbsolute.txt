@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\04.PrintDeckOfCards\bin\Debug\04.PrintDeckOfCards.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\04.PrintDeckOfCards\bin\Debug\04.PrintDeckOfCards.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\04.PrintDeckOfCards\bin\Debug\04.PrintDeckOfCards.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\04.PrintDeckOfCards\obj\Debug\04.PrintDeckOfCards.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\04.PrintDeckOfCards\obj\Debug\04.PrintDeckOfCards.pdb

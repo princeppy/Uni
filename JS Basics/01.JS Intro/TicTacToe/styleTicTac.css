@@ -1,0 +1,58 @@
+body {
+  font-family: Tahoma, Helvetica, sans-serif; }
+  body #winner {
+    position: absolute;
+    left: 70%;
+    top: 30%;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px 30px 10px 30px;
+    color: white; }
+  body #scoreX, body #scoreO {
+    color: white;
+    position: absolute;
+    left: 70%;
+    top: 10%;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px 30px 10px 30px;
+    background-color: dodgerblue; }
+  body #scoreO {
+    background-color: red;
+    top: 20%; }
+  body #wrapper {
+    margin: 0 auto;
+    width: 450px;
+    height: 450px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+    background: url("img/back.png") no-repeat;
+    background-position: center; }
+    body #wrapper div {
+      width: 32%;
+      height: 32%; }
+      body #wrapper div img {
+        width: 99.9%;
+        height: 99.9%;
+        background-color: transparent; }
+  body button {
+    width: 10%;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    display: block;
+    margin: 0 auto;
+    margin-top: 15px; }
+    body button:focus, body button:visited, body button:link {
+      outline: none; }
+    body button:hover {
+      cursor: pointer;
+      background-color: grey; }
+
+/*# sourceMappingURL=styleTicTac.css.map */

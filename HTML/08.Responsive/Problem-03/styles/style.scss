@@ -1,0 +1,68 @@
+@import url(http://fonts.googleapis.com/css?family=Play);
+
+body {
+  font-family: Play, Tahoma, sans-serif;
+
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+    width: 50%;
+    margin: auto;
+  }
+  .left.carousel-control {
+    width: 25%;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, .5) 0, rgba(0, 0, 0, .01) 100%);
+  }
+
+  .right.carousel-control {
+    width: 25%;
+    background-image: linear-gradient(to left, rgba(0, 0, 0, .5) 0, rgba(0, 0, 0, .01) 100%);
+  }
+
+  #myCarousel {
+    //    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  .navbar > .container > .navbar-header > .navbar-brand {
+    color: white;
+    font-weight: bold;
+
+    &:hover {
+      color: #3071A9;
+    }
+  }
+
+  .col-lg-4 {
+    h2 {
+      height: 70px;
+    }
+    p {
+      height: 100px;
+    }
+  }
+
+  .footer {
+    background-color: #222222;
+    height: 50px;
+    p {
+      color: white;
+      line-height: 50px;
+      margin: 0px 100px;
+    }
+  }
+}
+
+@media screen and (max-width: 600px) {
+  body {
+
+    .footer {
+      height: 75px;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      p{
+        margin-left: 15px;
+      }
+    }
+  }
+}

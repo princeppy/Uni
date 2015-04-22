@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\09.Trapezoids\obj\Debug\09.Trapezoids.pdb

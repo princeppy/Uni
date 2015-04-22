@@ -1,0 +1,79 @@
+body {
+    font-family: Tahoma;
+    /*background: url(back.png) no-repeat;*/
+    font-size: 20px;
+    display: block;
+}
+
+main{
+    background-color: #FFC0CB;
+    width: 66.5rem;
+    border-radius: 0.7rem;
+    position: relative;
+    top: 0.1rem;
+    left: 0.26rem;
+    height: 24rem;
+}
+
+#main-header{
+    font-size: 1.87rem;
+    font-weight: bold;
+    position: relative;
+    top:1.6rem;
+    left: 30.2rem;
+}
+#profile{
+    position: relative;
+    top: 2.2rem;
+    left: 1.6rem;
+    display: inline-block;
+}
+
+#kent-pic{
+    position: relative;
+    top: -0.9rem;
+    left: -2.5rem;
+
+}
+
+figcaption{
+    position: relative;
+    top:-0.75rem;
+    left: -2.5rem;
+}
+
+meter{
+    position: relative;
+    bottom: 1.75rem;
+    width: 12.5rem;
+    right: 0.1rem;
+    height: 1.8rem;
+}
+
+#audio{
+    width: 15rem;
+    position: relative;
+    top: -17.4rem;
+    left: 17.2rem;
+}
+
+audio{
+    padding-bottom: 0.1rem;
+}
+
+#audio>header{
+    padding-bottom: 0.3rem;
+}
+
+#video{
+    display: inline-block;
+    position: relative;
+    bottom: 35.4rem;
+    left: 36.6rem;
+}
+
+#video>header{
+    padding-bottom: 0.3rem;
+}
+
+

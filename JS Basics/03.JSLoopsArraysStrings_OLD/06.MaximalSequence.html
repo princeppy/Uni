@@ -1,0 +1,62 @@
+﻿<html>
+<head>
+    <title>Arrays</title>
+    <link href="styles/style.css" rel="stylesheet"/>
+</head>
+<body>
+<div id="exercise">
+        <span id="inner">06.Write a JavaScript function findMaxSequence(arr) that finds the maximal sequence of equal elements in an array and returns the result as an array. If there is more than one sequence with the same maximal length, print the rightmost one.
+        </span>
+</div>
+<div>
+    <div>
+        <label for="input-one">Input comma or space separated array:</label>
+        <input id="input-one" placeholder="2,1,1,2,3" type="text" value="2, 1, 1, 2, 3, 3, 2, 2, 2, 1">
+    </div>
+</div>
+<a href="#" onclick="onPrintButtonClick(calcResult())">Print</a>
+
+<div id="result">The result will be printed here...</div>
+<script src="scripts/results.js"></script>
+
+<!--Start of the solution-->
+<script>
+    function calcResult() {
+
+        var str1 = document.getElementById('input-one').value;
+
+        var re = new RegExp('\\s+|,\\s*', 'g');
+        var arr1 = str1.split(re);
+        var check = true;
+
+        var tempCounter = 1;
+        var counter = 1;
+        var element = 0;
+        if (arr1.length != 1) {
+            for (var i = 0; i < arr1.length - 1; i++) {
+                if (arr1[i] == arr1[i + 1]) {
+                    tempCounter++;
+                    if (tempCounter >= counter) {
+                        counter = tempCounter;
+                        element = arr1[i];
+                    }
+                }
+                else {
+                    tempCounter = 1;
+                    element = arr1[i + 1];
+                }
+            }
+        }
+        else {
+            element = arr1[0];
+        }
+        var sequence = new Array(counter + 1).join(element + ',');
+        sequence = sequence.substring(0, sequence.length - 1);
+        return 'The sequence is: ' + sequence;
+    }
+</script>
+<!--End of solution-->
+
+
+</body>
+</html>

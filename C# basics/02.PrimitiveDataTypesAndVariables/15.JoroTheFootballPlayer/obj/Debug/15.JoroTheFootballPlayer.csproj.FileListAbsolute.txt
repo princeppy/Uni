@@ -1,0 +1,6 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\15.JoroTheFootballPlayer\bin\Debug\15.JoroTheFootballPlayer.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\15.JoroTheFootballPlayer\bin\Debug\15.JoroTheFootballPlayer.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\15.JoroTheFootballPlayer\bin\Debug\15.JoroTheFootballPlayer.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\15.JoroTheFootballPlayer\obj\Debug\15.JoroTheFootballPlayer.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\15.JoroTheFootballPlayer\obj\Debug\15.JoroTheFootballPlayer.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\15.JoroTheFootballPlayer\obj\Debug\15.JoroTheFootballPlayer.pdb

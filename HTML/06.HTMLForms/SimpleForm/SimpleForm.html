@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="styles/style.css"/>
+</head>
+<body>
+<div id="wrapper">
+    <header>Enter the system</header>
+    <div id="explain">It is necessary to login to Your account in order to sign in for a course.</div>
+    <div class="form-class">
+        <form id="register" action="#" method="post">
+            <fieldset>
+                <legend><span id="grey">ARE YOU NEW?</span> REGISTER</legend>
+                <input class="input-text" type="text" name="user" placeholder="User name" required title="Input username"/>
+                <input class="input-text" type="email" name="email" placeholder="Email" required title="Input email"/>
+                <input class="input-text" type="password" name="password" placeholder="Password" required title="Input password"/>
+                <input class="input-text" type="password" name="password-confirm" placeholder="Confirm password" required
+                       title="Input password"/>
+                <input type="submit" id="reg-button" value="Register"/>
+            </fieldset>
+        </form>
+    </div>
+
+    <div class="form-class">
+        <form id="login" action="#" method="post">
+            <fieldset>
+                <legend>ALREADY A STUDENT? LOGIN</legend>
+                <input class="input-text" type="text" name="username" placeholder="User name" required title="Input username"/>
+                <input class="input-text" type="password" name="password-login" placeholder="Password" required title="Input password"/>
+                <div><label id="check" for="check-remember"><input type="checkbox" id="check-remember"/>Remember me?</label>
+                <input type="submit" id="login-button" value="Login"/></div>
+
+            </fieldset>
+            <p>Forgot Password</p>
+
+        </form>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,52 @@
+﻿<html>
+<head>
+    <title>Arrays</title>
+    <link href="styles/style.css" rel="stylesheet"/>
+</head>
+<body>
+<div id="exercise">
+        <span id="inner">08.Sorting an array means to arrange its elements in increasing order. Write a JavaScript function sortArray(arr) to sort an array. Use the "selection sort" algorithm: find the smallest element, move it at the first position, find the smallest from the rest, move it at the second position, etc.
+        </span>
+</div>
+<div>
+    <div>
+        <label for="input-one">Input comma or space separated array:</label>
+        <input id="input-one" placeholder="2,1,1,2,3" type="text" value="12, 12, 50, 2, 6, 22, 51, 712, 6, 3, 3">
+    </div>
+</div>
+<a href="#" onclick="onPrintButtonClick(calcResult())">Print</a>
+
+<div id="result">The result will be printed here...</div>
+<script src="scripts/results.js"></script>
+
+<!--Start of the solution-->
+<script>
+    function calcResult() {
+        var str1 = document.getElementById('input-one').value;
+
+        var re = new RegExp('\\s+|,\\s*', 'g');
+        var arr1 = str1.split(re);
+
+        //Parse the values
+        for (var i = 0; i < arr1.length; i++) {
+            arr1[i] = parseInt(arr1[i]);
+        }
+        var tempArr = arr1.slice();
+
+        //Program logic
+        for (var i = 0; i < arr1.length - 1; i++) {
+            var min = Math.min.apply(Math,tempArr);
+            var temp = arr1[i];
+            var index = tempArr.indexOf(min)+i;
+            arr1[i] = arr1[index];
+            arr1[index] = temp;
+            tempArr = arr1.slice(i+1,arr1.length);
+        }
+        return 'Sorted array is: ' + arr1;
+    }
+</script>
+<!--End of solution-->
+
+
+</body>
+</html>

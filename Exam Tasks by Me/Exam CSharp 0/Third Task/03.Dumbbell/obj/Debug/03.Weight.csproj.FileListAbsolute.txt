@@ -1,0 +1,6 @@
+C:\Users\Elina Pavlova\Desktop\Exam CSharp 0\03.Weight\03.Weight\bin\Debug\03.Weight.exe.config
+C:\Users\Elina Pavlova\Desktop\Exam CSharp 0\03.Weight\03.Weight\obj\Debug\03.Weight.csprojResolveAssemblyReference.cache
+C:\Users\Elina Pavlova\Desktop\Exam CSharp 0\03.Weight\03.Weight\bin\Debug\03.Weight.exe
+C:\Users\Elina Pavlova\Desktop\Exam CSharp 0\03.Weight\03.Weight\bin\Debug\03.Weight.pdb
+C:\Users\Elina Pavlova\Desktop\Exam CSharp 0\03.Weight\03.Weight\obj\Debug\03.Weight.exe
+C:\Users\Elina Pavlova\Desktop\Exam CSharp 0\03.Weight\03.Weight\obj\Debug\03.Weight.pdb

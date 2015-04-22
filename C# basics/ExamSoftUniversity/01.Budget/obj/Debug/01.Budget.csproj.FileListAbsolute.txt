@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\01.Budget\bin\Debug\01.Budget.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\01.Budget\bin\Debug\01.Budget.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\01.Budget\bin\Debug\01.Budget.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\01.Budget\obj\Debug\01.Budget.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\01.Budget\obj\Debug\01.Budget.pdb

@@ -1,0 +1,480 @@
+﻿$border: 1px solid white;
+$font-Color: #f5bda6;
+$shadow: #3c0000 0 0 200px;
+
+@font-face {
+  font-family: 'GothamNightsBoldItalic';
+  src: url('../Fonts/Gotham Nights Bold Italic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'GothamNightsBold';
+  src: url('../Fonts/Gotham Nights Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'GothamNightsItalic';
+  src: url('../Fonts/Gotham Nights Italic.otf') format('opentype');
+}
+
+a {
+  color: $font-Color;
+}
+
+/*1366px normal resolution*/
+body {
+  width: 97%;
+  margin: 0;
+  padding: 0 20px;
+  background-color: #130707;
+
+  #wrapper {
+    width: 100%;
+    margin: 0 auto;
+    color: $font-Color;
+    padding: 10px;
+
+    header {
+      width: 100%;
+      box-shadow: $shadow;
+
+      ul {
+        margin: 0;
+        padding: 10px 0 5px 0;
+        height: 185px;
+        display: flex;
+        flex-flow: row wrap;
+
+        #arkham-knight-logo {
+          width: 29%;
+          margin: 0;
+        }
+        #right-padded {
+
+          margin: 0px 0px;
+          display: flex;
+          width: 55%;
+          align-self: center;
+          justify-content: space-between;
+
+        }
+
+        li {
+          width: 22%;
+          text-align: center;
+          border-radius: 5px;
+          list-style: none;
+          display: inline-block;
+          font-family: GothamNightsBold;
+          font-size: 40px;
+          margin: 5px 20px;
+          transition: 0.8s;
+
+          img {
+            width: 300px;
+          }
+
+          &:hover {
+            background-color: black;
+          }
+        }
+      }
+    }
+
+    main {
+      width: 100%;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      .union {
+        box-shadow: $shadow;
+        margin: 10px 0;
+
+        section {
+          width: 48%;
+        }
+      }
+
+      .section-main-info {
+        display: inline-block;
+        width: 72%;
+
+        section {
+          margin: 5px;
+          display: inline-block;
+
+          h2 {
+            font-family: GothamNightsBold;
+            font-size: 30px;
+          }
+
+          img {
+            width: 360px;
+          }
+
+          article {
+            display: inline-block;
+            width: 25%;
+            font-family: GothamNightsBoldItalic;
+            font-size: 21px;
+          }
+        }
+      }
+
+      .section-secondary-info {
+
+        width: 26%;
+        padding: 5px;
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        height: 100%;
+
+        header {
+          font-family: GothamNightsBold;
+          font-size: 24px;
+          width: 26.5%;
+          h3 {
+            margin: 0;
+          }
+        }
+
+        section {
+          font-family: GothamNightsBold;
+          margin-bottom: 25px;
+          margin-top: 5px;
+        }
+      }
+
+      nav {
+        padding: 0 3%;
+        width: 100%;
+
+        ul {
+
+          padding: 0;
+          display: flex;
+          flex-flow: row nowrap;
+          justify-content: center;
+          list-style-type: none;
+          margin: 0;
+
+          li {
+            font-family: GothamNightsBold;
+            font-size: 30px;
+            margin: 0px 20px;
+            transition: 1s;
+            align-self: flex-end;
+            margin-bottom: 3px;
+            &:nth-of-type(1) {
+              margin: 0px 20px 0px 0px;
+            }
+            h2 {
+              margin: 0;
+              padding-top: 0;
+              align-self: flex-start;
+              vertical-align: bottom;
+              margin-bottom: 0;
+            }
+
+            &:hover {
+              color: #580d0d;
+              text-decoration: underline;
+              cursor: pointer;
+            }
+          }
+        }
+      }
+    }
+
+    footer {
+      width: 100%;
+      text-align: center;
+      font-family: GothamNightsItalic;
+      font-size: 10px;
+    }
+  }
+}
+
+#wrapper > main > section > .union > section > article {
+  width: 100%;
+}
+
+#wrapper > header > ul > li:nth-child(1) {
+  &:hover {
+    background-color: rgba(0, 0, 0, 0.00) !important;
+  }
+}
+
+#arkham-knight-logo {
+  float: left;
+}
+
+#wrapper > main > section > div:nth-child(2) > section:nth-child(2) > h2 > a {
+  color: darkred;
+}
+
+/*******************************1200 small resolution****************/
+/*****************************Implement missing layout***************************/
+
+@media screen  and (max-width: 1200px) {
+  body {
+    width: 95%;
+    #wrapper {
+      header {
+
+        ul {
+          justify-content: center;
+
+          #arkham-knight-logo {
+            display: none;
+          }
+
+          #right-padded {
+
+            width: 90%;
+            align-self: center;
+            justify-content: space-between;
+
+          }
+
+        }
+      }
+
+      main {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        background: url("../images/LogoBackground.png") no-repeat;
+        background-position: center;
+        .union {
+          box-shadow: $shadow;
+          margin: 10px 0;
+
+          section {
+            width: 48%;
+          }
+        }
+
+        .section-main-info {
+
+          width: 100%;
+          .union {
+            width: 100%;
+            display: flex;
+            flex-flow: row wrap;
+            section {
+//              width: 48%;
+              &:first-of-type{
+                width: 35%;
+              }
+              &:nth-of-type(2){
+                width: 60%;
+              }
+              img {
+                width: 75%;
+                display: block;
+                align-self: flex-start;
+              }
+
+              article {
+                display: inline-block;
+                width: 100%;
+                font-family: GothamNightsBoldItalic;
+                font-size: 21px;
+              }
+            }
+          }
+        }
+
+        .section-secondary-info {
+          padding: 0;
+          width: 100%;
+          display: flex;
+          flex-flow: row wrap;
+          justify-content: space-between;
+
+          section {
+            width: 49%;
+          }
+        }
+
+        nav {
+          padding: 0% 0% 0% 2%;
+          width: 100%;
+
+          ul {
+            width: 85%;
+            display: flex;
+            flex-flow: row wrap;
+            justify-content: center;
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            li {
+              font-family: GothamNightsBold;
+              font-size: 30px;
+              margin: 0px 20px;
+              transition: 1s;
+              align-self: flex-end;
+              margin-bottom: 3px;
+              &:nth-of-type(1) {
+                margin: 0px 20px 0px 0px;
+              }
+              h2 {
+                margin: 0;
+                padding-top: 0;
+                align-self: flex-start;
+                vertical-align: bottom;
+                margin-bottom: 0;
+              }
+
+              &:hover {
+                color: #580d0d;
+                text-decoration: underline;
+                cursor: pointer;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+//This media query is for the footer images to be on one row
+@media screen and (max-width: 600px){
+  body{
+    #wrapper{
+      footer{
+        img{
+          width: 23%;
+        }
+      }
+    }
+
+  }
+}
+
+/*******************************560 xsmall resolution*****************************/
+/*****************************Implement missing layout***************************/
+@media screen and (max-width: 560px){
+  body {
+    width: 90%;
+    #wrapper {
+      header {
+        ul {
+          justify-content: flex-start;
+          #right-padded {
+            flex-flow: column wrap;
+            justify-content: flex-end;
+            align-self: center;
+            width: 100%;
+            padding: 0% 5%;
+            a{
+              align-self: center;
+              margin: 0;
+
+              width: 100%;
+              li{
+                width: 100%;
+                margin: 0;
+//                border-radius: 0;
+                border-bottom: 1px solid white;
+              }
+              &:last-of-type{
+                li {
+                  border-bottom: none;
+                }
+              }
+            }
+          }
+        }
+      }
+      main {
+          background: none;
+        .union {
+          box-shadow: $shadow;
+          margin: 10px 0;
+        }
+        .section-main-info {
+          width: 100%;
+          .union {
+            width: 100%;
+            section {
+              &:first-of-type{
+                width: 100%;
+                text-align: center;
+              }
+              &:nth-of-type(2){
+                width: 100%;
+                text-align: center;
+              }
+              img {
+                width: 100%;
+              }
+            }
+          }
+        }
+        .section-secondary-info {
+          padding: 0;
+          width: 100%;
+          display: flex;
+          flex-flow: row wrap;
+          justify-content: space-between;
+          section {
+            width: 100%;
+            header{
+              width: 100%;
+              text-align: center;
+            }
+          }
+        }
+
+        nav {
+          padding: 0% 0% 0% 5%;
+          width: 100%;
+
+          ul {
+            width: 100%;
+            flex-flow: column wrap;
+            justify-content: center;
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            li {
+
+              align-self: center;
+
+              &:nth-of-type(1) {
+                margin: 0px 20px 35px 20px;
+                text-decoration: underline;
+              }
+              &:last-of-type{
+                text-decoration: underline;
+              }
+              h2 {
+                margin: 0;
+                padding-top: 0;
+                align-self: flex-start;
+                vertical-align: bottom;
+                margin-bottom: 0;
+              }
+              &:hover {
+                color: #580d0d;
+                text-decoration: underline;
+                cursor: pointer;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+
+

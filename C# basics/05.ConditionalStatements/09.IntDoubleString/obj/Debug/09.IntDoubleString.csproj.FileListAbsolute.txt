@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\09.IntDoubleString\bin\Debug\09.IntDoubleString.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\09.IntDoubleString\bin\Debug\09.IntDoubleString.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\09.IntDoubleString\bin\Debug\09.IntDoubleString.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\09.IntDoubleString\obj\Debug\09.IntDoubleString.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\09.IntDoubleString\obj\Debug\09.IntDoubleString.pdb

@@ -1,0 +1,38 @@
+﻿<html>
+<head>
+    <title>Arrays</title>
+    <link href="styles/style.css" rel="stylesheet"/>
+</head>
+<body>
+<div id="exercise">
+        <span id="inner">01.Write a JavaScript function printNumbers(number) that accepts as parameter an integer number. The function finds all integer numbers from 1 to n that are not divisible by 4 or by 5. Write a JS program numberChecker.js that invokes your function with the sample input data below and prints the output at the console.
+        </span>
+</div>
+<div>
+    <label for="input-one">Input a number:</label>
+    <input id="input-one" placeholder="number" type="text" value="20">
+</div>
+<a href="#" onclick="onPrintButtonClick(calcResult())" title="Click a few times">Print.</a>
+
+<div id="result">The result will be printed here...</div>
+<script src="scripts/results.js"></script>
+
+<!--Start of the solution-->
+<script>
+    function calcResult() {
+        var number = document.getElementById('input-one').value;
+        var result = [];
+        for (var i = 1; i <= number; i++) {
+            if (i % 4 != 0 && i % 5 != 0) {
+
+                result.push(i);
+            }
+        }
+        return result.join(', ').toString();
+    }
+</script>
+<!--End of solution-->
+
+
+</body>
+</html>

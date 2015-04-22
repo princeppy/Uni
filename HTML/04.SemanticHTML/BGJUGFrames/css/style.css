@@ -1,0 +1,14 @@
+@import url('http://fonts.googleapis.com/css?family=Open+Sans');
+html{
+    height: 100%;
+}
+body {
+    /*background: url("back.png") no-repeat;*/
+    min-height: 100%;
+}
+
+
+#left-side{
+    position: absolute;
+    top: 100px;
+}

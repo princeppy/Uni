@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\09.PrintASequence\bin\Debug\09.PrintASequence.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\09.PrintASequence\bin\Debug\09.PrintASequence.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\09.PrintASequence\bin\Debug\09.PrintASequence.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\09.PrintASequence\obj\Debug\09.PrintASequence.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\09.PrintASequence\obj\Debug\09.PrintASequence.pdb

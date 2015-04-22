@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="styles/style.css"/>
+</head>
+<body>
+<div id="wrapper">
+
+    <form action="#" method="post">
+        <header>FLIGHT ORDER</header>
+        <div id="left-col">
+            <label for="cities-depart">From<input type="text" list="cities-depart" name="cities-depart" placeholder="enter a city"/>
+                <datalist id="cities-depart">
+                    <option value="Burgas">
+                    <option value="Pleven">
+                    <option value="Plovdiv">
+                    <option value="Sofia">
+                </datalist>
+            </label>
+
+            <label for="">Departure Date<input type="date" name="departure-date"/>
+
+            </label>
+
+            <label for="">Return Date<input type="date" name="return-date"/>
+
+            </label>
+
+            <label class="people" for="">12+<input type="number" name="people" min="0" max="5"/></label>
+            <label class="people" for="">2-12<input type="number" name="people" min="0" max="5"/></label>
+            <label class="people" for="">0-2<input type="number" name="people" min="0" max="5"/></label>
+
+        </div>
+
+
+        <div id="right-col">
+            <label for="">To<input type="text" list="cities-arrive" name="cities-arrive" placeholder="enter a city"/>
+                <datalist id="cities-arrive">
+                    <option value="Burgas">
+                    <option value="Pleven">
+                    <option value="Plovdiv">
+                    <option value="Sofia">
+                </datalist>
+            </label>
+            <label id="check" for="directs-check"><input type="checkbox" name="directs-check"/>Prefer directs</label>
+
+
+            <label class="time" for="departure-time">Time Interval<input type="time" name="departure-time"/></label>
+            <label class="time" for="departure-time"><input type="time" name="departure-time"/></label>
+
+            <label class="time" for=return-time"">Time Interval<input type="time" name="return-time"/></label>
+            <label class="time" for="return-time"><input type="time" name="return-time"/></label>
+
+
+            <label for="">Choose Class
+                <select name="flight-class" id="flight-class">
+                    <option value="economy" selected label="Economy"></option>
+                    <option value="first-class" label="First class"></option>
+                    <option value="business" label="Business"></option>
+                </select>
+
+            </label>
+        </div>
+
+        <input type="submit" value="Search"/>
+
+    </form>
+</div>
+</body>
+</html>

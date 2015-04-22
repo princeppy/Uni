@@ -1,0 +1,32 @@
+body form {
+  box-sizing: border-box;
+  width: 300px;
+  border: 1px solid black; }
+  body form h3 {
+    text-align: center; }
+  body form label {
+    width: 65%;
+    display: block;
+    margin: 0 auto; }
+    body form label span {
+      color: red; }
+    body form label input {
+      width: 97%;
+      display: block; }
+    body form label input[type="checkbox"] {
+      display: inline-block;
+      width: auto; }
+      body form label input[type="checkbox"]:active, body form label input[type="checkbox"]:focus {
+        outline: none; }
+  body form #buttons {
+    margin: 0 auto;
+    width: 75%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 15px;
+    margin-bottom: 15px; }
+  body form #test {
+    display: none; }
+
+/*# sourceMappingURL=style.css.map */

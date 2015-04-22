@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.pdb

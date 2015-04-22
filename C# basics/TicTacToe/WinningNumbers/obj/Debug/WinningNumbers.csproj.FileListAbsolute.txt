@@ -1,0 +1,6 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\WinningNumbers\bin\Debug\WinningNumbers.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\WinningNumbers\obj\Debug\WinningNumbers.csprojResolveAssemblyReference.cache
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\WinningNumbers\bin\Debug\WinningNumbers.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\WinningNumbers\bin\Debug\WinningNumbers.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\WinningNumbers\obj\Debug\WinningNumbers.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\WinningNumbers\obj\Debug\WinningNumbers.pdb

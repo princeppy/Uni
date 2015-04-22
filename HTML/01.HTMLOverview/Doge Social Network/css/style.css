@@ -1,0 +1,106 @@
+body {
+    width: 100%;
+    background-color: rgb(173,216,230);
+    background-size: 75%;
+    background-repeat: no-repeat;
+    font-size: 2.7vmax;
+}
+
+header {
+    display: block;
+    font-size: 100%;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#header-profile{
+    display: block;
+    font-size: 75%;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#doge-pic{
+    border: 1px solid;
+    width: 13%;
+}
+
+nav{
+    display: block;
+    font-family: Times, sans-serif;
+    font-size: 50%;
+
+    margin-top: 15px;
+}
+section {
+    display: block;
+}
+
+#logo {
+    display: block;
+    float: right;
+    margin: -1% 26% 0% 0%;
+    width: 15%;
+}
+
+footer#footer-profile>p {
+    font-size: 50%;
+    margin: 0%;
+    padding: 0%;
+}
+
+
+footer#footer-friends>p:nth-child(odd) {
+     font-size: 50%;
+    font-style: italic;
+    margin: 0;
+ }
+footer#footer-friends>p:nth-child(even) {
+    font-size: 50%;
+    margin: 0.2% 0% 0.2% 4%;
+}
+
+footer#footer-info>p {
+    font-size: 50%;
+
+}
+
+p>span{
+    font-weight: bold;
+}
+
+ul.outer-list {
+    /*list-style-type: none;*/
+    font-family: Calibri, serif;
+    font-size: 90%;
+    color: white;
+    margin: 0.5% 0% 0% 0.5%;
+}
+ul.outer-list>li::after {
+
+
+    color: rgb(243, 205, 60)
+    
+}
+
+div.inner-list {
+    font-family: Calibri, serif;
+    font-size: 63%;
+    font-weight: bold;
+    color: rgb(251, 238, 201);
+    border: 1px solid;
+    border-color: rgb(199, 191, 172);
+    background-color: rgba(217, 213, 199, 0.15);
+    width: 65%;
+    margin: 0.5% 0% 0% 1.5%;
+    padding: 0.2% 0.2%;
+}
+
+.tags {
+    font-family: Consolas, serif;
+    color: rgb(243, 205, 60);
+    font-weight: bold;
+}
+
+
+

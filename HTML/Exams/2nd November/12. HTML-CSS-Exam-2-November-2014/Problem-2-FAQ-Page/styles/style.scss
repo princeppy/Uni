@@ -1,0 +1,124 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+body {
+  font-family: "Open Sans", sans-serif;
+    > header {
+      width: 100%;
+      background: rgb(201,199,204); /* Old browsers */
+      background: -moz-linear-gradient(top,  rgba(201,199,204,1) 0%, rgba(212,211,216,1) 28%, rgba(212,211,216,1) 51%, rgba(202,201,206,1) 72%, rgba(180,179,184,1) 100%); /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(201,199,204,1)), color-stop(28%,rgba(212,211,216,1)), color-stop(51%,rgba(212,211,216,1)), color-stop(72%,rgba(202,201,206,1)), color-stop(100%,rgba(180,179,184,1))); /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(top,  rgba(201,199,204,1) 0%,rgba(212,211,216,1) 28%,rgba(212,211,216,1) 51%,rgba(202,201,206,1) 72%,rgba(180,179,184,1) 100%); /* Chrome10+,Safari5.1+ */
+      background: -o-linear-gradient(top,  rgba(201,199,204,1) 0%,rgba(212,211,216,1) 28%,rgba(212,211,216,1) 51%,rgba(202,201,206,1) 72%,rgba(180,179,184,1) 100%); /* Opera 11.10+ */
+      background: -ms-linear-gradient(top,  rgba(201,199,204,1) 0%,rgba(212,211,216,1) 28%,rgba(212,211,216,1) 51%,rgba(202,201,206,1) 72%,rgba(180,179,184,1) 100%); /* IE10+ */
+      background: linear-gradient(to bottom,  rgba(201,199,204,1) 0%,rgba(212,211,216,1) 28%,rgba(212,211,216,1) 51%,rgba(202,201,206,1) 72%,rgba(180,179,184,1) 100%); /* W3C */
+      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9c7cc', endColorstr='#b4b3b8',GradientType=0 ); /* IE6-9 */
+
+      height: 350px;
+      img{
+        display: block;
+        margin: 0 auto;
+      }
+    > div {
+      width: 300px;
+      height: 100px;
+      background-color: rgba(78, 83, 89, 0.5);
+      position: relative;
+      left: 500px;
+      bottom: 150px;
+      display: flex;
+      justify-content: center;
+      h1 {
+        align-self: center;
+        color: white;
+        font-size: 50px;
+      }
+    }
+  }
+    #inner-wrapper {
+      //    background: url("../img/faq-page.png") no-repeat;
+      width: 920px;
+      margin: 0 auto;
+
+
+
+      main {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        padding-top: 20px;
+        //      margin-top: 15px;
+        background-color: #F3F3F5;
+        aside {
+          margin-right: 20px;
+          width: 20%;
+          img {
+            max-width: 100%;
+            height: auto;
+          }
+          ul {
+            list-style-type: none;
+            font-size: 14px;
+            color: white;
+            background-color: #4E5359;
+            padding: 0;
+            margin: 0;
+            //          border: 1px solid black;
+
+            li {
+              //            cursor: pointer;
+
+              a {
+                display: block;
+                padding: 15px 150px 15px 25px;
+                text-decoration: none;
+                color: white;
+                &:hover {
+                  background-color: #5D6167;
+                  border-left: 2px solid #2F6D6C;
+                }
+
+              }
+              .selected {
+                background-color: #42464B;
+                border-left: 4px solid #22DBA5;
+              }
+            }
+          }
+        }
+
+        section {
+          width: 70%;
+
+          font-size: 14px;
+          article {
+            padding: 15px;
+            background-color: white;
+            margin-bottom: 20px;
+            border-top: 3px solid #BBBABF;
+            header {
+              font-size: 14px;
+              color: #BBC0CF;
+              font-weight: bold;
+            }
+            h3 {
+
+              a {
+                text-decoration: none;
+                color: #0000EE;
+              }
+            }
+          }
+        }
+      }
+
+
+    }
+  > footer {
+    height: 150px;
+    background-color: #C9C7CC;
+    padding: 5% 0% 0% 15%;
+    p {
+      color: #677790;
+      margin: 0;
+    }
+  }
+  }

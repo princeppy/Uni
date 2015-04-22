@@ -1,0 +1,5 @@
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe.config
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.pdb
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
+D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\02.PrimitiveDataTypesAndVariables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb

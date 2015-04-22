@@ -1,0 +1,28 @@
+body{
+    font-family: Calibri, serif;
+    font-size: 35px;
+}
+table{
+    width: 29%;
+    border: 1px solid black;
+    border-spacing: 0px;
+
+
+}
+th{
+    text-align: left;
+    vertical-align:text-top;
+    font-weight: bold;
+    font-size: 100%;
+    padding: 0;
+    margin: 0;
+}
+td{
+    font-size: 50%;
+    padding: 1.5%;
+
+}
+
+td>span{
+    font-weight: bold;
+}

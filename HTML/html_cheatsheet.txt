@@ -1,0 +1,4 @@
+текст на бутон span в button
+span:before{
+content: url('path')
+}
