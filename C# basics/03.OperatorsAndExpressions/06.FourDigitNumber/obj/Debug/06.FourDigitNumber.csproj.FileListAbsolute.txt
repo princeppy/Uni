@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.csprojResolveAssemblyReference.cache

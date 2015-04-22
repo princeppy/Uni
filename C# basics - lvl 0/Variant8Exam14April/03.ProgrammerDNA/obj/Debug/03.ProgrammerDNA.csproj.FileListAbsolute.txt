@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\03.ProgrammerDNA\bin\Debug\03.ProgrammerDNA.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\03.ProgrammerDNA\obj\Debug\03.ProgrammerDNA.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\03.ProgrammerDNA\bin\Debug\03.ProgrammerDNA.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\03.ProgrammerDNA\bin\Debug\03.ProgrammerDNA.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\03.ProgrammerDNA\obj\Debug\03.ProgrammerDNA.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\03.ProgrammerDNA\obj\Debug\03.ProgrammerDNA.pdb

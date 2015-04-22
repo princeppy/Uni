@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\BitRoller\bin\Debug\BitRoller.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\BitRoller\bin\Debug\BitRoller.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\BitRoller\bin\Debug\BitRoller.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\BitRoller\obj\Debug\BitRoller.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\BitRoller\obj\Debug\BitRoller.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\BitRoller\obj\Debug\BitRoller.pdb

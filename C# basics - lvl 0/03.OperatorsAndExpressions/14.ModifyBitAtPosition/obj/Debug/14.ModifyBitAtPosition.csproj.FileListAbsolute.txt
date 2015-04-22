@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\14.ModifyBitAtPosition\bin\Debug\14.ModifyBitAtPosition.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\14.ModifyBitAtPosition\bin\Debug\14.ModifyBitAtPosition.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\14.ModifyBitAtPosition\bin\Debug\14.ModifyBitAtPosition.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\14.ModifyBitAtPosition\obj\Debug\14.ModifyBitAtPosition.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\14.ModifyBitAtPosition\obj\Debug\14.ModifyBitAtPosition.pdb

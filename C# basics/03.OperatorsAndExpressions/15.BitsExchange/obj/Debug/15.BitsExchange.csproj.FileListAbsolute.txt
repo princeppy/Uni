@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\15.BitsExchange\bin\Debug\15.BitsExchange.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\15.BitsExchange\bin\Debug\15.BitsExchange.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\15.BitsExchange\bin\Debug\15.BitsExchange.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\15.BitsExchange\obj\Debug\15.BitsExchange.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\15.BitsExchange\obj\Debug\15.BitsExchange.pdb

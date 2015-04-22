@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\04.MagicCarNumbers\bin\Debug\04.MagicCarNumbers.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\04.MagicCarNumbers\bin\Debug\04.MagicCarNumbers.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\04.MagicCarNumbers\bin\Debug\04.MagicCarNumbers.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\04.MagicCarNumbers\obj\Debug\04.MagicCarNumbers.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\04.MagicCarNumbers\obj\Debug\04.MagicCarNumbers.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\04.MagicCarNumbers\obj\Debug\04.MagicCarNumbers.csprojResolveAssemblyReference.cache

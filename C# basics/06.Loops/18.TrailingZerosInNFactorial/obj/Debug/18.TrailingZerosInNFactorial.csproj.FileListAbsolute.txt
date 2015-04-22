@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\18.TrailingZerosInNFactorial\bin\Debug\18.TrailingZerosInNFactorial.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\18.TrailingZerosInNFactorial\bin\Debug\18.TrailingZerosInNFactorial.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\18.TrailingZerosInNFactorial\bin\Debug\18.TrailingZerosInNFactorial.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\18.TrailingZerosInNFactorial\obj\Debug\18.TrailingZerosInNFactorial.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\18.TrailingZerosInNFactorial\obj\Debug\18.TrailingZerosInNFactorial.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\18.TrailingZerosInNFactorial\obj\Debug\18.TrailingZerosInNFactorial.pdb

@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\Star\bin\Debug\Star.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\Star\bin\Debug\Star.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\Star\bin\Debug\Star.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\Star\obj\Debug\Star.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\Star\obj\Debug\Star.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\Star\obj\Debug\Star.pdb

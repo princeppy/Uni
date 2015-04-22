@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.pdb

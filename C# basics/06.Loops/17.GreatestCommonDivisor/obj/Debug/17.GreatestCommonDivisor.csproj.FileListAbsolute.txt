@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\17.GreatestCommonDivisor\bin\Debug\17.GreatestCommonDivisor.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\17.GreatestCommonDivisor\obj\Debug\17.GreatestCommonDivisor.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\17.GreatestCommonDivisor\bin\Debug\17.GreatestCommonDivisor.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\17.GreatestCommonDivisor\bin\Debug\17.GreatestCommonDivisor.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\17.GreatestCommonDivisor\obj\Debug\17.GreatestCommonDivisor.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\17.GreatestCommonDivisor\obj\Debug\17.GreatestCommonDivisor.pdb

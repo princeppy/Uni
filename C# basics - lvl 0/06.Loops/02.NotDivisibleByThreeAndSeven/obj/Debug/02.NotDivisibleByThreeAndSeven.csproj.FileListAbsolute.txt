@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\02.NotDivisibleByThreeAndSeven\bin\Debug\02.NotDivisibleByThreeAndSeven.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\02.NotDivisibleByThreeAndSeven\bin\Debug\02.NotDivisibleByThreeAndSeven.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\02.NotDivisibleByThreeAndSeven\bin\Debug\02.NotDivisibleByThreeAndSeven.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\02.NotDivisibleByThreeAndSeven\obj\Debug\02.NotDivisibleByThreeAndSeven.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\02.NotDivisibleByThreeAndSeven\obj\Debug\02.NotDivisibleByThreeAndSeven.pdb

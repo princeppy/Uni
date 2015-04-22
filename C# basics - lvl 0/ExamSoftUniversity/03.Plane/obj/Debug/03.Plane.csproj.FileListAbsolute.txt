@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\03.Plane\bin\Debug\03.Plane.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\03.Plane\bin\Debug\03.Plane.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\03.Plane\bin\Debug\03.Plane.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\03.Plane\obj\Debug\03.Plane.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamSoftUniversity\03.Plane\obj\Debug\03.Plane.pdb

@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\13.BinaryToDecimal\bin\Debug\13.BinaryToDecimal.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\13.BinaryToDecimal\obj\Debug\13.BinaryToDecimal.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\13.BinaryToDecimal\bin\Debug\13.BinaryToDecimal.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\13.BinaryToDecimal\bin\Debug\13.BinaryToDecimal.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\13.BinaryToDecimal\obj\Debug\13.BinaryToDecimal.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\13.BinaryToDecimal\obj\Debug\13.BinaryToDecimal.pdb

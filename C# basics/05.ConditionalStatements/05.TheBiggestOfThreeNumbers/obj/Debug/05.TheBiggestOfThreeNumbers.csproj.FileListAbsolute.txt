@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\05.TheBiggestOfThreeNumbers\bin\Debug\05.TheBiggestOfThreeNumbers.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\05.TheBiggestOfThreeNumbers\bin\Debug\05.TheBiggestOfThreeNumbers.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\05.TheBiggestOfThreeNumbers\bin\Debug\05.TheBiggestOfThreeNumbers.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\05.TheBiggestOfThreeNumbers\obj\Debug\05.TheBiggestOfThreeNumbers.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\05.TheBiggestOfThreeNumbers\obj\Debug\05.TheBiggestOfThreeNumbers.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\05.ConditionalStatements\05.TheBiggestOfThreeNumbers\obj\Debug\05.TheBiggestOfThreeNumbers.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\02.StudentCables\bin\Debug\02.StudentCables.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\02.StudentCables\bin\Debug\02.StudentCables.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\02.StudentCables\bin\Debug\02.StudentCables.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\02.StudentCables\obj\Debug\02.StudentCables.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\02.StudentCables\obj\Debug\02.StudentCables.pdb

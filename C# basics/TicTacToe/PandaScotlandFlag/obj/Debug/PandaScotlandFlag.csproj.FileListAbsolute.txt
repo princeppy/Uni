@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\PandaScotlandFlag\bin\Debug\PandaScotlandFlag.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\PandaScotlandFlag\bin\Debug\PandaScotlandFlag.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\PandaScotlandFlag\bin\Debug\PandaScotlandFlag.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\PandaScotlandFlag\obj\Debug\PandaScotlandFlag.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\PandaScotlandFlag\obj\Debug\PandaScotlandFlag.pdb

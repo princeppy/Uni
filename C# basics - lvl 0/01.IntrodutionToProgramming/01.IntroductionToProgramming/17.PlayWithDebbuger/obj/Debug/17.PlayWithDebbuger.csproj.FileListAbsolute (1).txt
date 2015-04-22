@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\17.PlayWithDebbuger\bin\Debug\17.PlayWithDebbuger.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\17.PlayWithDebbuger\bin\Debug\17.PlayWithDebbuger.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\17.PlayWithDebbuger\bin\Debug\17.PlayWithDebbuger.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\17.PlayWithDebbuger\obj\Debug\17.PlayWithDebbuger.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\17.PlayWithDebbuger\obj\Debug\17.PlayWithDebbuger.pdb

@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\11.RandomNumbersInRange\bin\Debug\11.RandomNumbersInRange.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\11.RandomNumbersInRange\bin\Debug\11.RandomNumbersInRange.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\11.RandomNumbersInRange\bin\Debug\11.RandomNumbersInRange.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\11.RandomNumbersInRange\obj\Debug\11.RandomNumbersInRange.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\11.RandomNumbersInRange\obj\Debug\11.RandomNumbersInRange.pdb

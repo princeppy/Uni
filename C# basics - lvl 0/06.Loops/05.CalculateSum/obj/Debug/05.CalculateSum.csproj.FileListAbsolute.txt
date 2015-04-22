@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\05.CalculateSum\bin\Debug\05.CalculateSum.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\05.CalculateSum\bin\Debug\05.CalculateSum.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\05.CalculateSum\bin\Debug\05.CalculateSum.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\05.CalculateSum\obj\Debug\05.CalculateSum.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\05.CalculateSum\obj\Debug\05.CalculateSum.pdb

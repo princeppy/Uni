@@ -1,1 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\16.DecimalToHex\bin\Debug\16.DecimalToHex.exe.config

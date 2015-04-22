@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\03.DivideBySevenAndFive\bin\Debug\03.DivideBySevenAndFive.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\03.DivideBySevenAndFive\bin\Debug\03.DivideBySevenAndFive.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\03.DivideBySevenAndFive\bin\Debug\03.DivideBySevenAndFive.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\03.DivideBySevenAndFive\obj\Debug\03.DivideBySevenAndFive.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\03.DivideBySevenAndFive\obj\Debug\03.DivideBySevenAndFive.pdb

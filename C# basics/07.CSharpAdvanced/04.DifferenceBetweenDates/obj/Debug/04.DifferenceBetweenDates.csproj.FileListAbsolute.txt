@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\07.CSharpAdvanced\04.DifferenceBetweenDates\bin\Debug\04.DifferenceBetweenDates.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\07.CSharpAdvanced\04.DifferenceBetweenDates\bin\Debug\04.DifferenceBetweenDates.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\07.CSharpAdvanced\04.DifferenceBetweenDates\bin\Debug\04.DifferenceBetweenDates.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\07.CSharpAdvanced\04.DifferenceBetweenDates\obj\Debug\04.DifferenceBetweenDates.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\07.CSharpAdvanced\04.DifferenceBetweenDates\obj\Debug\04.DifferenceBetweenDates.pdb

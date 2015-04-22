@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\07.PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\07.PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.pdb

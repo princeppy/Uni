@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\01.InsideTheBuilding\bin\Debug\01.InsideTheBuilding.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\01.InsideTheBuilding\obj\Debug\01.InsideTheBuilding.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\01.InsideTheBuilding\bin\Debug\01.InsideTheBuilding.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\01.InsideTheBuilding\bin\Debug\01.InsideTheBuilding.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\01.InsideTheBuilding\obj\Debug\01.InsideTheBuilding.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\01.InsideTheBuilding\obj\Debug\01.InsideTheBuilding.pdb

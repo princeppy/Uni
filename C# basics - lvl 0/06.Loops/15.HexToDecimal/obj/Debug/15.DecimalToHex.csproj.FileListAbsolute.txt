@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\15.DecimalToHex\bin\Debug\15.DecimalToHex.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\15.DecimalToHex\bin\Debug\15.DecimalToHex.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\15.DecimalToHex\bin\Debug\15.DecimalToHex.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\15.DecimalToHex\obj\Debug\15.DecimalToHex.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\15.DecimalToHex\obj\Debug\15.DecimalToHex.pdb

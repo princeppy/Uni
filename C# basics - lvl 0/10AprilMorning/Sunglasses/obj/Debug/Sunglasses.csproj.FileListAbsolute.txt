@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\10AprilMorning\Sunglasses\bin\Debug\Sunglasses.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\10AprilMorning\Sunglasses\bin\Debug\Sunglasses.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\10AprilMorning\Sunglasses\bin\Debug\Sunglasses.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\10AprilMorning\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\10AprilMorning\Sunglasses\obj\Debug\Sunglasses.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\10AprilMorning\Sunglasses\obj\Debug\Sunglasses.pdb

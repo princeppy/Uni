@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\07.CSharpAdvanced\02.PrimeNumberCheck\bin\Debug\02.PrimeNumberCheck.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\07.CSharpAdvanced\02.PrimeNumberCheck\bin\Debug\02.PrimeNumberCheck.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\07.CSharpAdvanced\02.PrimeNumberCheck\bin\Debug\02.PrimeNumberCheck.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\07.CSharpAdvanced\02.PrimeNumberCheck\obj\Debug\02.PrimeNumberCheck.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\07.CSharpAdvanced\02.PrimeNumberCheck\obj\Debug\02.PrimeNumberCheck.pdb
