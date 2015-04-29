@@ -85,7 +85,7 @@
       <file leaf-file-name="_07_CountSubstringOccurrences.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_07_CountSubstringOccurrences.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+            <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="527">
               <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
@@ -95,7 +95,7 @@
       <file leaf-file-name="_06_CountSpecifiedWord.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_06_CountSpecifiedWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+            <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="510">
               <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
@@ -105,7 +105,7 @@
       <file leaf-file-name="_05_CountAllWords.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_05_CountAllWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+            <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="459">
               <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
@@ -115,7 +115,7 @@
       <file leaf-file-name="_04_LongestIncreasingSequence.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_04_LongestIncreasingSequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1156">
+            <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="1156">
               <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
@@ -125,7 +125,7 @@
       <file leaf-file-name="_03_LargestSequenceOfEqualStrings.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_03_LargestSequenceOfEqualStrings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833">
+            <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="833">
               <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
@@ -135,7 +135,7 @@
       <file leaf-file-name="_02_SequenceOfEqualStrings.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_02_SequenceOfEqualStrings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
+            <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="850">
               <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
@@ -168,11 +168,13 @@
       <file leaf-file-name="_11_MostFrequentWord.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/_11_MostFrequentWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.09018568" vertical-offset="0" max-vertical-offset="986">
-              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            <state vertical-scroll-proportion="2.1193633" vertical-offset="0" max-vertical-offset="1020">
+              <caret line="47" column="60" selection-start-line="0" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#414#431#0" expanded="true" />
+                <element signature="e#1242#1543#0" expanded="true" />
+                <element signature="e#1542#1543#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -204,7 +206,6 @@
         <option value="$PROJECT_DIR$/src/_07_CountSpecifiedWord.java" />
         <option value="$PROJECT_DIR$/src/_07_CountSubstringOccurences.java" />
         <option value="$PROJECT_DIR$/src/_10_MostFrequentWord.java" />
-        <option value="$PROJECT_DIR$/src/_11_MostFrequentWord.java" />
         <option value="$PROJECT_DIR$/src/_10_ExtractAllUniqueWords.java" />
         <option value="$PROJECT_DIR$/src/_09_CombineListOfLetters.java" />
         <option value="$PROJECT_DIR$/src/_08_ExtractEmails.java" />
@@ -217,6 +218,7 @@
         <option value="$PROJECT_DIR$/src/_01_SortArrayOfNums.java" />
         <option value="$PROJECT_DIR$/src/_12_CardsFrequencies.java" />
         <option value="$PROJECT_DIR$/src/_12_Cards.java" />
+        <option value="$PROJECT_DIR$/src/_11_MostFrequentWord.java" />
       </list>
     </option>
   </component>
@@ -603,7 +605,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -680,11 +682,101 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/_07_CountSubstringOccurrences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="527">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_06_CountSpecifiedWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="510">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_05_CountAllWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="459">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_04_LongestIncreasingSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="1156">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_03_LargestSequenceOfEqualStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="833">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_02_SequenceOfEqualStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="850">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01_SortArrayOfNums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="595">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_12_Cards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="82" max-vertical-offset="595">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#417#433#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_11_MostFrequentWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="986">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#414#431#0" expanded="true" />
+            <element signature="e#1242#1543#0" expanded="true" />
+            <element signature="e#1542#1543#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_10_ExtractAllUniqueWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="52" max-vertical-offset="510">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#410#418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/_09_CombineListOfLetters.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -776,11 +868,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_11_MostFrequentWord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09018568" vertical-offset="0" max-vertical-offset="986">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        <state vertical-scroll-proportion="2.1193633" vertical-offset="0" max-vertical-offset="1020">
+          <caret line="47" column="60" selection-start-line="0" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#414#431#0" expanded="true" />
+            <element signature="e#1242#1543#0" expanded="true" />
+            <element signature="e#1542#1543#0" expanded="true" />
           </folding>
         </state>
       </provider>
