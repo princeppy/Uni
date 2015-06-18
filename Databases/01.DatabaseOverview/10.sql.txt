@@ -1,0 +1,5 @@
+Purpose of SQL Structured Query Language is to provide a Structured way by which one can Query information in database using a standard Language.
+
+SQL provides a global standard of working with databases with little or not differences over different platform. F
+or e.g. if you are familiar with SQL you can work with major DBs like SQL Server mySql & Oracle few minor differences in 
+syntax exists but they aren’t very prominent at least as far as basic operations are concerned.

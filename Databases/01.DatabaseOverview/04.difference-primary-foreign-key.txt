@@ -1,0 +1,17 @@
+1.
+Primary Key	- Primary key uniquely identify a record in the table.
+Foreign Key - Foreign key is a field in the table that is primary key in another table.
+
+2.
+Primary Key - Primary Key can't accept null values.
+Foreign Key - Foreign key can accept multiple null value.
+
+3.	
+Primary Key - By default, Primary key is clustered index and data in the database table is physically organized in the sequence of clustered index.
+Foreign Key	- Foreign key do not automatically create an index, clustered or non-clustered. You can manually create an index on foreign key.
+
+4.
+Primary Key	- We can have only one Primary key in a table.
+Foreign Key	- We can have more than one foreign key in a table.
+		
+	

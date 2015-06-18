@@ -1,0 +1,21 @@
+A transaction symbolizes a unit of work performed within a database management system (or similar system) against a database, 
+nd treated in a coherent and reliable way independent of other transactions. A transaction generally represents any change in database. 
+Transactions in a database environment have two main purposes:
+
+To provide reliable units of work that allow correct recovery from failures and keep a database consistent even in cases of 
+system failure, when execution stops (completely or partially) and many operations upon a database remain uncompleted, with unclear status.
+To provide isolation between programs accessing a database concurrently. If this isolation is not provided, the program's outcome are possibly erroneous.
+
+
+Example:
+Examples from double-entry accounting systems often illustrate the concept of transactions. 
+In double-entry accounting every debit requires the recording of an associated credit. 
+If one writes a check for $100 to buy groceries, a transactional double-entry accounting system 
+must record the following two entries to cover the single transaction:
+
+Debit $100 to Groceries Expense Account
+Credit $100 to Checking Account
+A transactional system would make both entries pass or both entries would fail.
+By treating the recording of multiple entries as an atomic transactional unit of work the 
+system maintains the integrity of the data recorded. In other words, nobody ends up with a 
+situation in which a debit is recorded but no associated credit is recorded, or vice versa.

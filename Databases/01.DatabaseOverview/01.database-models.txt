@@ -1,0 +1,28 @@
+A database model is a type of data model that determines the logical structure of a database and fundamentally determines in which manner data can be stored, organized, and manipulated. The most popular example of a database model is the relational model, which uses a table-based format.
+
+Common logical data models for databases include:
+
+Hierarchical database model
+Network model
+Relational model
+Entity–relationship model
+Enhanced entity–relationship model
+Object model
+Document model
+Entity–attribute–value model
+Star schema
+An object-relational database combines the two related structures.
+
+Physical data models include:
+
+Inverted index
+Flat file
+Other models include:
+
+Associative model
+Multidimensional model
+Multivalue model
+Semantic model
+XML database
+Named graph
+Triplestore
