@@ -1,0 +1,4 @@
+T-SQL (Transact-SQL) is a set of programming extensions from Sybase and Microsoft 
+that add several features to the Structured Query Language (SQL) including transaction control,
+exception and error handling, row processing, and declared variables. 
+Microsoft's SQL Server and Sybase's SQL server support T-SQL statements. 

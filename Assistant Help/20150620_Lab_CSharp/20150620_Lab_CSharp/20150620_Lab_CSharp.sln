@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrices", "Matrices\Matric
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteParty", "ByteParty\ByteParty.csproj", "{C1D7D815-4BC8-4D56-9EE8-43E6BFE3C608}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris", "Tetris\Tetris.csproj", "{ACD9610F-9C43-41AC-BF0D-AE8CCDE56911}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C1D7D815-4BC8-4D56-9EE8-43E6BFE3C608}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1D7D815-4BC8-4D56-9EE8-43E6BFE3C608}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1D7D815-4BC8-4D56-9EE8-43E6BFE3C608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD9610F-9C43-41AC-BF0D-AE8CCDE56911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD9610F-9C43-41AC-BF0D-AE8CCDE56911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD9610F-9C43-41AC-BF0D-AE8CCDE56911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD9610F-9C43-41AC-BF0D-AE8CCDE56911}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
