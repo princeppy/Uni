@@ -1,0 +1,4 @@
+CourseName Description StartDate EndDate Price
+English,English Basics Level,12.10.2014,01.02.2015,500.00
+Mathematics,Math Basics Level,20.10.2014,10.02.2015,350.00
+Computer Basics,Computer Basics Level,21.10.2014,10.02.2015,600.00

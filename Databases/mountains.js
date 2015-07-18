@@ -169,28 +169,19 @@ function processArray(mount, peaks,elevations){
         if(json[mount[i]]){
             if(peaks[i]!='NULL')
             json[mount[i]].push({"name":peaks[i],"elevation":elevations[i]})
-            //else
-                //json[mount[i]].push({"name":'',"elevation":0})
+           
 
         }else{
             json[mount[i]]=[];
             if(peaks[i]!='NULL')
             json[mount[i]].push({"name": peaks[i],"elevation":elevations[i]})
-            //else
-                //json[mount[i]].push({"name":'',"elevation":0})
+            
         }
     }
 var final = {mountains:[]};
     for (var obj in json) {
         var tempObj = {name:obj,peaks:json[obj]}
-        //tempObj.name = obj;
-        ////for (var obj1 in json[obj]) {
-        ////    tempObj.peaks.push(json[obj].join(', '))
-        ////}
-        ////for (var obj1 in json[obj]) {
-        //tempObj.peaks.push(json[obj])
-        //}
-        final.mountains.push(tempObj)
+                final.mountains.push(tempObj)
     }
 
     console.log(JSON.stringify(final));
