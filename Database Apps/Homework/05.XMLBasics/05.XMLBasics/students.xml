@@ -1,0 +1,83 @@
+﻿  <?xml version="1.0" encoding="utf-8"?>
+  <students xmlns="urn:students">
+    <student>
+      <name>Pesho</name>
+      <gender>Male</gender>
+      <birthDate>1989-07-04</birthDate>
+      <phoneNumber>359-2-123-456</phoneNumber>
+      <email>pesho@abv.bg</email>
+      <university>SoftUni</university>
+      <specialty>JS Developer</specialty>
+      <facultyNumber>su123456</facultyNumber>
+      <exams>
+        <exam>
+          <name>JS Basics</name>
+          <date>2015-03-05</date>
+          <grade>6.0</grade>
+        </exam>
+        <exam>
+          <name>Advanced JS</name>
+          <date>2015-05-05</date>
+          <grade>6.0</grade>
+        </exam>
+        <exam>
+          <name>JS Masters</name>
+          <date>2015-07-05</date>
+          <grade>6.0</grade>
+        </exam>
+      </exams>
+    </student>
+    <student>
+      <name>Mimi</name>
+      <gender>Demale</gender>
+      <birthDate>1991-03-24</birthDate>
+      <email>mimito@abv.bg</email>
+      <university>SoftUni</university>
+      <specialty>JS Developer</specialty>
+      <facultyNumber>su123465</facultyNumber>
+      <exams>
+        <exam>
+          <name>JS Basics</name>
+          <date>2015-03-05</date>
+          <grade>6.0</grade>
+        </exam>
+        <exam>
+          <name>Advanced JS</name>
+          <date>2015-05-05</date>
+          <grade>6.0</grade>
+        </exam>
+        <exam>
+          <name>JS Masters</name>
+          <date>2015-07-05</date>
+          <grade>6.0</grade>
+        </exam>
+      </exams>
+    </student>
+    <student>
+      <name>Ivan</name>
+      <gender>Male</gender>
+      <birthDate>1990-11-15</birthDate>
+      <phoneNumber>359-2-111-222</phoneNumber>
+      <email>vankata1@abv.bg</email>
+      <university>SoftUni</university>
+      <specialty>JS Developer</specialty>
+      <facultyNumber>su123471</facultyNumber>
+      <exams>
+        <exam>
+          <name>JS Basics</name>
+          <date>2015-03-05</date>
+          <grade>5.45</grade>
+        </exam>
+        <exam>
+          <name>Advanced JS</name>
+          <date>2015-05-05</date>
+          <grade>5.81</grade>
+        </exam>
+        <exam>
+          <name>JS Masters</name>
+          <date>2015-07-05</date>
+          <grade>6.0</grade>
+        </exam>
+      </exams>
+    </student>
+  </students>

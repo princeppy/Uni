@@ -1,0 +1,21 @@
+//using (StreamReader file = File.OpenText("../../../SeedData/products.json"))
+            //{
+            //    JsonSerializer serializer = new JsonSerializer();
+            //    var movie2 = (List<Product>)serializer.Deserialize(file, typeof(List<Product>));
+            //}
+
+            // read JSON directly from a file
+            //using (StreamReader file = File.OpenText("../../../SeedData/products.json"))
+            //using (JsonTextReader reader = new JsonTextReader(file))
+            //{
+            //    JArray o2 = (JArray)JToken.ReadFrom(reader);
+            //    Console.WriteLine(o2);
+
+
+            //    foreach (var VARIABLE in o2)
+            //    {
+            //        Console.WriteLine(VARIABLE.Value<string>("name"));
+
+
+            //    }
+            //}
