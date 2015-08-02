@@ -1,0 +1,45 @@
+{
+  "username": "jmeyery",
+  "ratedMovies": [
+    {
+      "title": "Indiana Jones and the Last Crusade (1989)",
+      "userrating": 4,
+      "averageRating": 5.25
+    },
+    {
+      "title": "Kill Bill: Vol. 1 (2003)",
+      "userrating": 9,
+      "averageRating": 6.75
+    },
+    {
+      "title": "Mad Max: Fury Road (2015)",
+      "userrating": 8,
+      "averageRating": 5.0
+    },
+    {
+      "title": "Monty Python and the Holy Grail (1975)",
+      "userrating": 9,
+      "averageRating": 6.2857142857142856
+    },
+    {
+      "title": "The Big Lebowski (1998)",
+      "userrating": 7,
+      "averageRating": 7.0
+    },
+    {
+      "title": "The Grand Budapest Hotel (2014)",
+      "userrating": 9,
+      "averageRating": 5.8888888888888893
+    },
+    {
+      "title": "The Kid (1921)",
+      "userrating": 6,
+      "averageRating": 5.7142857142857144
+    },
+    {
+      "title": "Underground (1995)",
+      "userrating": 10,
+      "averageRating": 6.0
+    }
+  ]
+}
