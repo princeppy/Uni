@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="9d39333c-5cae-482e-9507-c5a9952c254e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:60838/ServiceCalculator.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceCalculator.xsd" MetadataType="Schema" ID="4b075097-aa62-48bf-b314-6de68476c99a" SourceId="1" SourceUrl="http://localhost:60838/ServiceCalculator.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServiceCalculator.wsdl" MetadataType="Wsdl" ID="5673e96f-1435-4ce6-9c27-4b9de60b0ba6" SourceId="1" SourceUrl="http://localhost:60838/ServiceCalculator.svc?wsdl" />
+    <MetadataFile FileName="ServiceCalculator1.xsd" MetadataType="Schema" ID="19ca52c0-f1a9-456b-93f0-2e3712d8b5f3" SourceId="1" SourceUrl="http://localhost:60838/ServiceCalculator.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServiceCalculator2.xsd" MetadataType="Schema" ID="d55370da-e9df-4901-b659-444a0fa7ba26" SourceId="1" SourceUrl="http://localhost:60838/ServiceCalculator.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServiceCalculator.disco" MetadataType="Disco" ID="d86fa089-bc1d-4357-869d-1eb01cf45ca7" SourceId="1" SourceUrl="http://localhost:60838/ServiceCalculator.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
