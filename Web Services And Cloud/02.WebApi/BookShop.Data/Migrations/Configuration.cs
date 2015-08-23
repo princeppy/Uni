@@ -54,6 +54,8 @@ namespace BookShop.Data.Migrations
 
                 Task<IdentityResult> result = manager.CreateAsync(user, "admin");
 
+                var a = manager.Create(user);
+
                 if (!roleManager.Roles.Any())
                 {
                     roleManager.Create(new IdentityRole { Name = "Admin" });

@@ -18,6 +18,8 @@ namespace BookShop.Data
 
         IRepository<Category> Category { get; }
 
+        IRepository<ApplicationRole> Roles { get; }
+
         IRepository<Purchase> Purchases { get; }
         
         int SaveChanges();

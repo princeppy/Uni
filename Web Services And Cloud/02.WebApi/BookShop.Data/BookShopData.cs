@@ -44,6 +44,11 @@ namespace BookShop.Data
             get { return this.GetRepository<Purchase>(); }
         }
 
+        public IRepository<ApplicationRole> Roles
+        {
+            get { return this.GetRepository<ApplicationRole>(); }
+        }
+
         public int SaveChanges()
         {
             return this.context.SaveChanges();

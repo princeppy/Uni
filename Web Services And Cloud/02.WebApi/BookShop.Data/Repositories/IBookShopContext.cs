@@ -16,6 +16,7 @@ namespace BookShop.Data.Repositories
         IDbSet<Book> Books { get; set; }
 
         IDbSet<Category> Categories { get; set; }
+        IDbSet<ApplicationRole> Roles { get; set; }
 
         //IDbSet<Purchase> Purchases { get; set; }
 

@@ -47,6 +47,8 @@ namespace BookShop.Data
 
         public IDbSet<Category> Categories { get; set; }
 
+        public virtual new IDbSet<ApplicationRole> Roles { get; set; }
+
         //public IDbSet<Purchase> Purchases { get; set; }
 
 
@@ -59,9 +61,7 @@ namespace BookShop.Data
         {
             return base.Set<TEntity>();
         }
-
-
-    }
+        }
 
     //public class MyEntity
     //{
