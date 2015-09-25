@@ -35,7 +35,7 @@ namespace BookShop.Data
                     {
                         m.MapLeftKey("BookID");
                         m.MapRightKey("RelatedBookID");
-                            m.ToTable("BooksRelatedBooks");
+                        m.ToTable("BooksRelatedBooks");
                     });
 
             base.OnModelCreating(modelBuilder);
@@ -61,7 +61,7 @@ namespace BookShop.Data
         {
             return base.Set<TEntity>();
         }
-        }
+    }
 
     //public class MyEntity
     //{
