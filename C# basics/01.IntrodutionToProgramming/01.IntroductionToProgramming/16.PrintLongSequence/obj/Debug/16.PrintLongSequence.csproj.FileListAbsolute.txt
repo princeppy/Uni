@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\01.IntrodutionToProgramming\01.IntroductionToProgramming\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.pdb

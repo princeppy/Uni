@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\13.CheckABitAtPosition\bin\Debug\13.CheckABitAtPosition.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\13.CheckABitAtPosition\bin\Debug\13.CheckABitAtPosition.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\13.CheckABitAtPosition\bin\Debug\13.CheckABitAtPosition.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\13.CheckABitAtPosition\obj\Debug\13.CheckABitAtPosition.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\13.CheckABitAtPosition\obj\Debug\13.CheckABitAtPosition.pdb

@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\FiveSpecialLetters\bin\Debug\FiveSpecialLetters.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\FiveSpecialLetters\bin\Debug\FiveSpecialLetters.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\FiveSpecialLetters\bin\Debug\FiveSpecialLetters.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\FiveSpecialLetters\obj\Debug\FiveSpecialLetters.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\FiveSpecialLetters\obj\Debug\FiveSpecialLetters.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\FiveSpecialLetters\obj\Debug\FiveSpecialLetters.pdb

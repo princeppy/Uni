@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\Arrow\bin\Debug\Arrow.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\Arrow\obj\Debug\Arrow.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\Arrow\bin\Debug\Arrow.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\Arrow\bin\Debug\Arrow.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\Arrow\obj\Debug\Arrow.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\12AprilEvening\Arrow\obj\Debug\Arrow.pdb

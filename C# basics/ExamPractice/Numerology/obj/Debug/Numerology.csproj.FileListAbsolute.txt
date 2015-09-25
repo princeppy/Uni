@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamPractice\Numerology\bin\Debug\Numerology.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamPractice\Numerology\bin\Debug\Numerology.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamPractice\Numerology\bin\Debug\Numerology.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamPractice\Numerology\obj\Debug\Numerology.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamPractice\Numerology\obj\Debug\Numerology.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\ExamPractice\Numerology\obj\Debug\Numerology.pdb

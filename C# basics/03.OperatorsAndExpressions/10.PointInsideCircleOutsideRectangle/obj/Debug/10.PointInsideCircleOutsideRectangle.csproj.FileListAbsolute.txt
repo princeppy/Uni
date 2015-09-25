@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\10.PointInsideCircleOutsideRectangle\bin\Debug\10.PointInsideCircleOutsideRectangle.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\10.PointInsideCircleOutsideRectangle\bin\Debug\10.PointInsideCircleOutsideRectangle.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\10.PointInsideCircleOutsideRectangle\bin\Debug\10.PointInsideCircleOutsideRectangle.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\10.PointInsideCircleOutsideRectangle\obj\Debug\10.PointInsideCircleOutsideRectangle.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\10.PointInsideCircleOutsideRectangle\obj\Debug\10.PointInsideCircleOutsideRectangle.pdb

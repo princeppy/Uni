@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.pdb

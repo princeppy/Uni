@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\12.RandomizeOneToN\bin\Debug\12.RandomizeOneToN.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\12.RandomizeOneToN\bin\Debug\12.RandomizeOneToN.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\12.RandomizeOneToN\bin\Debug\12.RandomizeOneToN.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\12.RandomizeOneToN\obj\Debug\12.RandomizeOneToN.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\12.RandomizeOneToN\obj\Debug\12.RandomizeOneToN.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\06.Loops\12.RandomizeOneToN\obj\Debug\12.RandomizeOneToN.pdb

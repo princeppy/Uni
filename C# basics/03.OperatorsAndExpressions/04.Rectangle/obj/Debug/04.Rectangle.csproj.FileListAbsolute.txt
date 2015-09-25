@@ -1,5 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\04.Rectangle\bin\Debug\04.Rectangle.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\04.Rectangle\bin\Debug\04.Rectangle.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\04.Rectangle\bin\Debug\04.Rectangle.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\04.Rectangle\obj\Debug\04.Rectangle.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\03.OperatorsAndExpressions\04.Rectangle\obj\Debug\04.Rectangle.pdb

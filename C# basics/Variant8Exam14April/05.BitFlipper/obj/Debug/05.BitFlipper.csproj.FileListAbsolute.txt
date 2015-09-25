@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\05.BitFlipper\bin\Debug\05.BitFlipper.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\05.BitFlipper\bin\Debug\05.BitFlipper.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\05.BitFlipper\bin\Debug\05.BitFlipper.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\05.BitFlipper\obj\Debug\05.BitFlipper.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\05.BitFlipper\obj\Debug\05.BitFlipper.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\Variant8Exam14April\05.BitFlipper\obj\Debug\05.BitFlipper.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\ChessQueens\bin\Debug\ChessQueens.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\ChessQueens\obj\Debug\ChessQueens.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\ChessQueens\bin\Debug\ChessQueens.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\ChessQueens\bin\Debug\ChessQueens.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\ChessQueens\obj\Debug\ChessQueens.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\TicTacToe\ChessQueens\obj\Debug\ChessQueens.pdb

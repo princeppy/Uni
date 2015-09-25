@@ -1,6 +1,0 @@
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\07.CSharpAdvanced\05. SortingNumbers\bin\Debug\_05.SortingNumbers.exe.config
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\07.CSharpAdvanced\05. SortingNumbers\bin\Debug\_05.SortingNumbers.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\07.CSharpAdvanced\05. SortingNumbers\bin\Debug\_05.SortingNumbers.pdb
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\07.CSharpAdvanced\05. SortingNumbers\obj\Debug\05. SortingNumbers.csprojResolveAssemblyReference.cache
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\07.CSharpAdvanced\05. SortingNumbers\obj\Debug\_05.SortingNumbers.exe
-D:\Marto\Google Drive\SoftUni\C# basics - lvl 0\07.CSharpAdvanced\05. SortingNumbers\obj\Debug\_05.SortingNumbers.pdb
